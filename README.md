@@ -1,4 +1,4 @@
-# ETC Twitter Together
+# [@eth_classic](https://twitter.com/eth_classic) Twitter Together
 
 This repo uses the [Twitter-Together](https://github.com/twitter-together/action/) GitHub Action to allow anyone to make a pull request in order to submit tweets to the [@eth_classic](https://twitter.com/eth_classic) Twitter Account.
 
