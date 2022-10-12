@@ -1,0 +1,27 @@
+---
+reply: https://twitter.com/eth_classic/status/1579334928336097280
+---
+
+Have something you think should be tweeted?
+
+Submit a pull request against the following repository. They go through a code review, similar to ECIP or website changes. Approved tweets are published via automated process after merge:
+https://github.com/ethereumclassic/tweets-eth_classic/
+
+---
+
+Here is an example of a tweet submitted by the $ETC community to @eth_classic, the #EthereumClassic's main project twitter account:
+https://github.com/ethereumclassic/tweets-eth_classic/pull/10/files
+
+---
+
+We are using @gr2m’s twitter-together project for this automation.  Thank you, Gregor!
+
+Such a useful little tool:
+https://github.com/twitter-together
+
+---
+
+What is acceptable and unacceptable to tweet?
+
+We are in the process of defining that policy.  If you would like to help please join us on this Github issue:
+https://github.com/ethereumclassic/tweets-eth_classic/issues/16
