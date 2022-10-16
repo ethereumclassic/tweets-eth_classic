@@ -31,7 +31,7 @@ All tweets must conform to the Twitter rules and policies found at https://help.
 - Dignity: No obscenities, explicit language, racism, sexism, etc.
 - Neutrality: No attacking or promoting of non-ETC projects, no drama.
 - Seriousness: No memes, jokes, quips, hot takes, etc.
-- Accuracy: No linking to unverifiable information.
+- Accuracy: No linking to overly opinionated, biased or unverifiable information.
 - Relevance: No spam, non-ETC related content, limit tweets about the same topic.
 - Safety: No links to scams, no encouraging the purchase of assets.
 
