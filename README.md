@@ -75,6 +75,8 @@ Acceptable topics to Tweet about include but are not limited to:
 
 During the review process; 
 
+- Ensure the generated preview formatted is correcty, this triggered manually if they come from outside contributors.
+- **Do not trigger Actions from Pull Reqeusts that suspiciously modify the workflow file**
 - Remain civil and work towards to goal of creating the best tweets in common interest.
 - Either come to agreement in the PR about wording, or Submit a new Pull Request.
 - Do not edit original PR creator’s Tweet, other than to fix formatting or typos.
