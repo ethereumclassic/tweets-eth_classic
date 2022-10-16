@@ -80,6 +80,9 @@ For maintainers, during the review process;
 - Remain civil and work towards to goal of creating the best tweets in common interest.
 - Either come to agreement in the PR about wording, or Submit a new Pull Request.
 - Do not edit original PR creator’s Tweet, other than to fix formatting or typos.
+- Ensure that Pull Request Tweets adhere to the rules above. If it does, you can approve it:
+
+![image](https://user-images.githubusercontent.com/1696942/196016691-62401aa3-fc04-4720-82a7-00a986264d6c.png)
 
 ### Examples of Good Tweets (and why)
 
