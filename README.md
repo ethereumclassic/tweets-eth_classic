@@ -18,9 +18,9 @@ This repo uses the [Twitter-Together](https://github.com/twitter-together/action
 
 ## Rules
 
-The `eth_classic` account was the main verified Twitter account for ETC, and we hope to once again build up a following and reputation that keeps that would dignify it with verified status in the future. Tweets from submitted to this should take this into consideration and remain professional, relevant and neutral. 
+The `@eth_classic` account was the main verified Twitter account for ETC, and we hope to once again build up a following and reputation that keeps that would dignify it with verified status in the future. Tweets from submitted to this should take this into consideration and remain professional, relevant and neutral. 
 
-If you want your submitted tweet to be approved, the contents of the tweet must follow the following rules. If the tweet you wish to submit does not follow these rules, check out the `ETC_Network` account, which has a more relaxed set of rules and may allow the tweet you wish to post, including memes and other content that drives engagement.
+If you want your submitted tweet to be approved, the contents of the tweet must follow the following rules. If the tweet you wish to submit does not follow these rules, check out the [`@ETC_Network`](https://github.com/ethereumclassic/tweets-ETC_Network) account, which has a more relaxed set of rules and may allow the tweet you wish to post, including memes and other content that drives engagement.
 
 If you have suggestions to amend these rules, please create a new issue in this repository.
 
