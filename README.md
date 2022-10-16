@@ -47,7 +47,7 @@ Acceptable topics to Tweet about include but are not limited to:
 - ETC philosophy and principles, and their benefits, quotes from the website.
 - Benefits of ETC technical properties (such as PoW, Sound Money) compared to other blockchains (but must not ‘dunk’ on other projects).
 - Keeping followers in the loop about important community discussions (e.g. ECIPs, ongoing debates).
-- Community events, conferences, meetups, discussions.
+- Community events, conferences, meetups, initiatives, discussions.
 - Interesting technical analysis of network attributes such as hashrate, throughput, price movement.
 - Ecosystem updates, new projects, wallets, services, exchange listings (see next below).
 
