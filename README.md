@@ -73,10 +73,10 @@ Acceptable topics to Tweet about include but are not limited to:
 
 ### Review Process
 
-During the review process; 
+For maintainers, during the review process; 
 
+- **Do not trigger Actions from Pull Reqeusts that suspiciously modify the [workflow](/.github/workflows/twitter-together.yml) file**. Always check that the PR is only adding tweet or media files. Do not reopen a PR that has suspiciously modified the workflow file.
 - Ensure the generated preview formatted is correcty, this triggered manually if they come from outside contributors.
-- **Do not trigger Actions from Pull Reqeusts that suspiciously modify the [workflow](/.github/workflows/twitter-together.yml) file**. Check that it is only adding a tweet. Do not reopen a PR that has suspiciously modified the workflow file.
 - Remain civil and work towards to goal of creating the best tweets in common interest.
 - Either come to agreement in the PR about wording, or Submit a new Pull Request.
 - Do not edit original PR creator’s Tweet, other than to fix formatting or typos.
