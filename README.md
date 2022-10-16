@@ -54,7 +54,7 @@ Acceptable topics to Tweet about include but are not limited to:
 ### Third Party Projects
 
 - Must be relevant to ETC.
-- **Large** projects from **established** teams that are well known to the ETC community and have been operating for at least 2 years (e.g. Binance listing Tether-ETC pair, Chainlink deploys to ETC, etc.) can be (re)tweeted, with disclaimers (e.g. do your own research).
+- **Large** projects from **established** teams that are well known to the ETC community and have been operating for at least 2 years (e.g. Binance listing TetherETC/ETC pair, Chainlink deploys to ETC, etc.) can be (re)tweeted, with disclaimers (e.g. do your own research).
 
 ### Retweets
 
