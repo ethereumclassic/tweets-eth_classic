@@ -63,7 +63,7 @@ Acceptable topics to Tweet about include but are not limited to:
 
 ## ETCtweets
 
-- For tweets submitted via #ETCtweets, include "This tweet was sugested via the #ETCtweets hashtag. Thanks, @USER!" either in the retweet text, or a a follow up message via a thread; see [Threading](#threading).
+- For tweets submitted via #ETCtweets, include "This tweet was sugested via the #ETCtweets hashtag. Thanks, @USER!" either in the retweet text, or a follow up message via a thread; see [Threading](#threading).
 
 ### Formatting and Style
 
