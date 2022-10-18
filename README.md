@@ -54,12 +54,16 @@ Acceptable topics to Tweet about include but are not limited to:
 ### Third Party Projects
 
 - Must be relevant to ETC.
-- **Large** projects from **established** teams that are well known to the ETC community and have been operating for at least 2 years (e.g. Binance listing ETC/TetherETC pair, Chainlink deploys to ETC, etc.) can be (re)tweeted, with disclaimers (e.g. do your own research).
+- **Large** projects from **established** teams that are well known to the ETC community and have been operating for at least 2 years (e.g. Binance listing USDT Tether tokens on the ETC blockchain, Chainlink deploys to ETC, etc.) can be (re)tweeted, with disclaimers (e.g. do your own research).
 
 ### Retweets
 
 - Retweets must follow the above rules, and/or include required disclaimer within retweet message.
 - Must not excessively retweet the same account (up to 5 per month)
+
+## ETCtweets
+
+- For tweets submitted via #ETCtweets, include "This tweet was sugested via the #ETCtweets hashtag. Thanks, @USER!" either in the retweet text, or a a follow up message via a thread; see [Threading](#threading).
 
 ### Formatting and Style
 
