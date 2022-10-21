@@ -18,9 +18,9 @@ This repo uses the [Twitter-Together](https://github.com/twitter-together/action
 
 ## Rules
 
-On Twitter, `@eth_classic` was the Ethereum Classic community's verified account to which access was lost. With this renewed `eth_classic` account, our aim is to empower the community to once again build a Twitter following and reputation that will allow for verified account status in the future. Community members submitting tweet suggestions to `eth_classic` should take this into consideration. Suggested tweets should remain professional, relevant and neutral. 
+On Twitter, `@eth_classic` was the Ethereum Classic community's verified account to which access was lost. With this renewed `@eth_classic` account, our aim is to empower the community to once again build a Twitter following and reputation that will allow for verified account status in the future. Community members submitting tweet suggestions to `@eth_classic` should take this into consideration. Suggested tweets should remain professional, relevant and neutral. 
 
-In order to be approved, the contents of an `eth_classic` tweet must adhere to the following rules. If the tweet you wish to submit does not meet these restrictions, check out the [`@ETC_Network`](https://github.com/ethereumclassic/tweets-ETC_Network) Twitter account. While also a community account, `ETC_Network` has a more relaxed set of rules for content and may allow memes and other forms of engagement driving content.
+In order to be approved, the contents of an `eth_classic` tweet must adhere to the following rules. If the tweet you wish to submit does not meet these restrictions, check out the [`@ETC_Network`](https://github.com/ethereumclassic/tweets-ETC_Network) Twitter account. While also a community account, `@ETC_Network` has a more relaxed set of rules for content and may allow memes and other forms of engagement driving content.
 
 If you have suggestions to amend these rules, please create a new issue in this repository.
 
@@ -37,7 +37,7 @@ All tweets must conform to the Twitter rules and policies found at https://help.
 
 ### Content
 
-The `eth_classic` account serves to inform it’s followers in an unbiased way about interesting happenings in the Ethereum Classic world. It is a pillar of neutrality, a honey badger that does not care about external drama, and serves to inform others about it’s own situation, protocol updates, and other relevant news.
+The `@eth_classic` account serves to inform it’s followers in an unbiased way about interesting happenings in the Ethereum Classic world. It is a pillar of neutrality, a honey badger that does not care about external drama, and serves to inform others about it’s own situation, protocol updates, and other relevant news.
 
 Tweets from this account should be written from the point of view of the ETC blockchain itself. If a proposed tweet cannot pass a test of "If it had a voice, would the chain itself say..." then that tweet would not be acceptable.
 
