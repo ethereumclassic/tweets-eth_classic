@@ -18,9 +18,9 @@ This repo uses the [Twitter-Together](https://github.com/twitter-together/action
 
 ## Rules
 
-The `@eth_classic` account was the main verified Twitter account for ETC, and we hope to once again build up a following and reputation that keeps that would dignify it with verified status in the future. Tweets from submitted to this should take this into consideration and remain professional, relevant and neutral. 
+On Twitter, `@eth_classic` was the Ethereum Classic community's verified account to which access was lost. With this renewed `eth_classic` account, our aim is to empower the community to once again build a Twitter following and reputation that will allow for verified account status in the future. Community members submitting tweet suggestions to `eth_classic` should take this into consideration. Suggested tweets should remain professional, relevant and neutral. 
 
-If you want your submitted tweet to be approved, the contents of the tweet must follow the following rules. If the tweet you wish to submit does not follow these rules, check out the [`@ETC_Network`](https://github.com/ethereumclassic/tweets-ETC_Network) account, which has a more relaxed set of rules and may allow the tweet you wish to post, including memes and other content that drives engagement.
+In order to be approved, the contents of an `eth_classic` tweet must adhere to the following rules. If the tweet you wish to submit does not meet these restrictions, check out the [`@ETC_Network`](https://github.com/ethereumclassic/tweets-ETC_Network) Twitter account. While also a community account, `ETC_Network` has a more relaxed set of rules for content and may allow memes and other forms of engagement driving content.
 
 If you have suggestions to amend these rules, please create a new issue in this repository.
 
@@ -37,14 +37,14 @@ All tweets must conform to the Twitter rules and policies found at https://help.
 
 ### Content
 
-The `eth_classic` account serves to inform it’s followers in an unbiased way about interesting happening in the Ethereum Classic world. It is a pillar of neutrality, a honey badger that does not care about external drama, and serves to inform others about it’s own situation, protocol updates, and other relevant news.
+The `eth_classic` account serves to inform it’s followers in an unbiased way about interesting happenings in the Ethereum Classic world. It is a pillar of neutrality, a honey badger that does not care about external drama, and serves to inform others about it’s own situation, protocol updates, and other relevant news.
 
-Tweets from this account should written from the point of view of the ETC blockchain itself. If a proposed tweet can't pass a test of "If it had a voice, would the chain itself say..." then that tweet would not be acceptable.
+Tweets from this account should be written from the point of view of the ETC blockchain itself. If a proposed tweet cannot pass a test of "If it had a voice, would the chain itself say..." then that tweet would not be acceptable.
 
 Acceptable topics to Tweet about include but are not limited to:
 
 - Important development updates such as Hard Fork announcements.
-- ETC philosophy and principles, and their benefits, quotes from the website.
+- ETC philosophy and principles, their benefits, and quotes from the website.
 - Benefits of ETC technical properties (such as PoW, Sound Money) compared to other blockchains (but must not ‘dunk’ on other projects).
 - Keeping followers in the loop about important community discussions (e.g. ECIPs, ongoing debates).
 - Community events, conferences, meetups, initiatives, discussions.
@@ -54,15 +54,15 @@ Acceptable topics to Tweet about include but are not limited to:
 ### Third Party Projects
 
 - Must be relevant to ETC.
-- Can be (re)tweeted, but must contain disclaimers (e.g. do your own research).
-- **Large** projects from **established** teams that are well known to the TC community and have been operating for at least 2 years are allowed. E.g.
+- Can be retweets, but must contain disclaimers (e.g. do your own research).
+- **Large** projects from **established** teams that are well known to the crypto-Twitter community and have been operating for at least 2 years are allowed. E.g.
   - Binance listing USDT Tether tokens on the ETC blockchain
   - Chainlink deploys to ETC
   - Grayscale lists ETC ETF
 
 ### Retweets
 
-- Retweets must follow the above rules, and/or include required disclaimer within retweet message.
+- Retweeted content must follow the above rules, and/or include required disclaimer within retweet message.
 - Must not excessively retweet the same account (up to 5 per month)
 
 ## ETCtweets
@@ -75,17 +75,17 @@ Acceptable topics to Tweet about include but are not limited to:
 - Double spacing between new sentences.
 - Correct use of capitalization.
 - Reasonable use of Hashtags (up to 3 hashtags), e.g. #EthereumClassic, $ETC.
-- Use of images encouraged (see Media style).
-- Use of Emojis encouraged.
+- Use of relevant images is encouraged (see Media style).
+- Use of appropriate Emojis is encouraged.
 
 ### Review Process
 
 For maintainers, during the review process; 
 
 - **Do not trigger Actions from Pull Reqeusts that suspiciously modify the [workflow](/.github/workflows/twitter-together.yml) file**. Always check that the PR is only adding tweet or media files. Do not reopen a PR that has suspiciously modified the workflow file.
-- Ensure the generated preview formatted is correcty, this triggered manually if they come from outside contributors.
-- Remain civil and work towards to goal of creating the best tweets in common interest.
-- Either come to agreement in the PR about wording, or Submit a new Pull Request.
+- Ensure that the generated preview is formatted correctly. The preview must be triggered manually if the submission comes from outside contributors.
+- Maintainers should remain civil when discussing or reviewing submissions and should work towards creating the best tweets in the common interest.
+- Either come to agreement in the PR about wording or appropriateness, or submit a new Pull Request.
 - Do not edit original PR creator’s Tweet, other than to fix formatting or typos.
 - Ensure that Pull Request Tweets adhere to the rules above. If it does, you can approve it:
 
