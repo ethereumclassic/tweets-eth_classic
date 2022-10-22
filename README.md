@@ -52,6 +52,15 @@ Acceptable topics to Tweet about include but are not limited to:
 - Interesting technical analysis of network attributes such as hashrate, throughput, price movement.
 - Ecosystem updates, new projects, wallets, services, exchange listings (see next below).
 
+### Third Party Projects
+
+- Must be relevant to ETC.
+- Can be retweets, but must contain disclaimers (e.g. do your own research).
+- **Large** projects from **established** teams that are well known to the crypto-Twitter community and have been operating for at least 2 years are allowed. E.g.
+  - Binance listing USDT Tether tokens on the ETC blockchain
+  - Chainlink deploys to ETC
+  - Grayscale lists ETC ETF
+
 ### Retweets
 
 - Retweeted content must follow the above rules, and/or include required disclaimer within retweet message.
