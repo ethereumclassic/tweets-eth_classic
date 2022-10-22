@@ -33,6 +33,7 @@ All tweets must conform to the Twitter rules and policies found at https://help.
 - Seriousness: No memes, jokes, quips, hot takes, etc.
 - Accuracy: No linking to overly opinionated, biased or unverifiable information.
 - Relevance: No spam, non-ETC related content, limit tweets about the same topic.
+- Subtlety: Don't tell people to buy ETC directly, instead tell them *why*.
 - Safety: No links to scams, no encouraging the purchase of assets.
 
 ### Content
