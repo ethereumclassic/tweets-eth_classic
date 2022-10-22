@@ -52,15 +52,10 @@ Acceptable topics to Tweet about include but are not limited to:
 - Interesting technical analysis of network attributes such as hashrate, throughput, price movement.
 - Ecosystem updates, new projects, wallets, services, exchange listings (see next below).
 
-
 ### Retweets
 
 - Retweeted content must follow the above rules, and/or include required disclaimer within retweet message.
 - Must not excessively retweet the same account (up to 5 per month)
-
-## ETCtweets
-
-- For tweets submitted via #ETCtweets, include "This tweet was suggested by @USSER via #ETCtweets." either in the retweet text, or in a follow up message via a thread; see [Threading](#threading).
 
 ### Formatting and Style
 
