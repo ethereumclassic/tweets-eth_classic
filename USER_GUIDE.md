@@ -2,11 +2,11 @@
 
 # User Guide #
 
-How to create and publish content to the Ethereum Classic Community's social media assets
+_##How to create and publish content to the Ethereum Classic Community's social media assets##_
 
 **Introduction**
 
-Etherteum Classic, the original Ethereum blockchain, is governed only by the principles upon which it was founded. One of these core principles is decentralization. The Ethereum Classic Community, in an effort to decentralize control over its social media assets, to reduce the risk of having those assets hijacked by former trusted parties turned bad actors, and to encourage increased participation from the community, has adopted and refined the Twitter-Together Github action to publish content to its assets on the Twitter platform and other social media outlets.
+Ethereum Classic, the original Ethereum blockchain, is governed only by the principles upon which it was founded. One of these core principles is decentralization. The Ethereum Classic Community, in an effort to decentralize control over its social media assets, to reduce the risk of having those assets hijacked by former trusted parties turned bad actors, and to encourage increased participation from the community, has adopted and refined the Twitter-Together Github action to publish content to its assets on the Twitter platform and other social media outlets.
 
 This guide covers how content is created, reviewed, published and distributed throughout the social media outlets on which Ethereum Classic has a presence. It will provide community members with a simple, non-technical method they can use to suggest Tweets for Ethereum Classic's Twitter accounts to publish. The content creation section lists the general rules and style guidelines for the various accounts this project serves. For those interested in a deeper level of participation, the Reviewers section details the content review and approval process. No matter what your level of technical know-how, if you wish to help give voice to the Ethereum Clasic ecosystem and promote the public's awareness of all things ETC, this guide will show you how.
 
@@ -38,6 +38,6 @@ Twitter-together is the open-source software used by the Ethereum Classic commun
 * Announcements of projects', dApps', companies' or individuals' newsworthy contributions to the Ethereum Classic ecosystem, without any "official" approval of the entity or product, are a proper use of this information channel.
 
 **_This is not a communications channel whose content will be directed by any single group or individual._** 
-* Any member of the community who so desires may compose a message to be tweeted and submit it through the content contribution procedure described in this guide. A group of volunteer reviewers will curate the submitted tweets to ensure that it complies with the communities' rules governing content. After a proposed tweet's content is reviewed and found to be in compliance by a number of reviewers, it is then queued and tweeted by the software automatically. Any community member can volunteer to be a reviewer. Any community member may be involved in proposing, discussing and adopting the rules governing content. Any community member may submit a tweet. Such decentralization at the very heart of the Ethereum Classic community's management of its "ETC-branded" communications assets puts one of our core philosophies to work for all to see.
+* Any member of the community may compose a message to be tweeted and submit it through the content contribution procedure described in this guide. A group of volunteer reviewers will curate the submitted tweets to ensure that it complies with the communities' rules governing content. After a proposed tweet's content is reviewed and found to be in compliance by a number of reviewers, it is then queued and tweeted by the software automatically. Any community member can volunteer to be a reviewer. Any community member may be involved in proposing, discussing and adopting the rules governing content. Any community member may submit a tweet. Such decentralization at the very heart of the Ethereum Classic community's management of its "ETC-branded" communications assets puts one of our core philosophies to work for all to see.
 
 **_ETC walks it like we talk it!_**
