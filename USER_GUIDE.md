@@ -52,7 +52,7 @@ Such decentralization at the very heart of the Ethereum Classic community's mana
 
 # Content
 
-Social media is a broad term for the diverse array of internet-based communications platforms that includes chat-focused sites such as Discord and Telegram, message or post-oriented feeds such as Facebook and Twitter, image-focused sites like Instagram, and countless other sites each with its own unique flavor or style. The Ethereum Classic community has a presence on many social media platforms, some quite well established such as the Ethereum Classic Discord.
+Social media is a broad term for the diverse array of internet-based communications platforms that includes chat-focused sites such as Discord and Telegram, message or post-oriented feeds such as Facebook and Twitter, image-focused sites like Instagram, and a myriad of other sites each with its own unique flavor or style. The Ethereum Classic community has a presence on many of these social media platforms, some quite well established such as the Ethereum Classic Discord channel found at <https://discord.gg/ethereumclassic> others less well known.
 
 
 
