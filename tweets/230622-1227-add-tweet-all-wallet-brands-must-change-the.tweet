@@ -1,4 +1,6 @@
-All wallet brands must change the $ETC RPC URL endpoint to RIVET as soon as possible!
+All wallet brands should update their ETC RPC endpoint as soon as possible as Ethcluser will be discontinued.
+
+https://etc.rivet.link is a great option.
 
 @MetaMask 
 @TrustWallet 
