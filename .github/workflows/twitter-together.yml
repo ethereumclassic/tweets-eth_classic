@@ -7,15 +7,24 @@ jobs:
     if: github.event_name == 'pull_request_target'
     permissions:
       pull-requests: write
-      contents: write
     steps:
       - name: checkout pull request
         uses: actions/checkout@v3
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Transform x.com URLs to twitter.com
-        run: bash .github/scripts/transform-urls.sh
+      - name: Check for x.com URLs
+        run: |
+          echo "Checking for x.com URLs in tweet files..."
+          if find tweets -name "*.tweet" -type f -exec grep -l 'https://x\.com/' {} + 2>/dev/null; then
+            echo ""
+            echo "⚠️  WARNING: x.com URLs detected in tweet files."
+            echo "Note: These will be automatically transformed to twitter.com format when merged to main."
+            echo "The twitter-together action only supports twitter.com URLs."
+            echo ""
+          else
+            echo "✓ No x.com URLs found"
+          fi
       - name: Validate Tweets
         uses: IstoraMandiri/twitter-together@etc
         env:
