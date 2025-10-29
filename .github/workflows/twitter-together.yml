@@ -7,11 +7,32 @@ jobs:
     if: github.event_name == 'pull_request_target'
     permissions:
       pull-requests: write
+      contents: write
     steps:
       - name: checkout pull request
         uses: actions/checkout@v3
         with:
-          ref: ${{ github.event.pull_request.head.sha }}
+          ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Transform x.com URLs to twitter.com
+        id: transform
+        run: |
+          echo "Starting URL transformation..."
+          find tweets -name "*.tweet" -type f -exec sed -i 's|https://x\.com/|https://twitter.com/|g' {} +
+          
+          if git diff --quiet; then
+            echo "transformed=false" >> $GITHUB_OUTPUT
+            echo "No URL transformations needed"
+          else
+            echo "transformed=true" >> $GITHUB_OUTPUT
+            echo "Transformed x.com URLs to twitter.com"
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add tweets/
+            git commit -m "Auto-transform x.com URLs to twitter.com format [skip ci]"
+            git push
+          fi
       - name: Validate Tweets
         uses: IstoraMandiri/twitter-together@etc
         env:
@@ -23,6 +44,19 @@ jobs:
     steps:
       - name: checkout main
         uses: actions/checkout@v3
+      - name: Transform x.com URLs to twitter.com
+        run: |
+          echo "Starting URL transformation..."
+          find tweets -name "*.tweet" -type f -exec sed -i 's|https://x\.com/|https://twitter.com/|g' {} +
+          
+          if ! git diff --quiet; then
+            echo "Transformed x.com URLs to twitter.com"
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add tweets/
+            git commit -m "Auto-transform x.com URLs to twitter.com format [skip ci]"
+            git push
+          fi
       - name: Tweet
         uses: IstoraMandiri/twitter-together@etc
         env:
