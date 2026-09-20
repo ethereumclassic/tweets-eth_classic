@@ -1,0 +1,55 @@
+# Publishes tweets whose `schedule` front matter time has passed.
+#
+# A tweet with a schedule is deliberately NOT published when its pull request
+# is merged. It is queued in .github/published-tweets.json and published by
+# this workflow, which runs only when asked to:
+#
+#   - by the contributions app (https://etc.contributions.app), whose hourly
+#     cron checks the queue and sends a "publish-scheduled-tweets" dispatch
+#     event when something is due, so there are no empty runs here;
+#   - by a maintainer with the "Run workflow" button, to publish due tweets
+#     without waiting for the next hourly check.
+#
+# This needs no credentials beyond the ones already configured for tweeting.
+#
+# Each tweet is claimed in the ledger before it is sent, so an interrupted run
+# can never publish the same tweet twice. If a run is interrupted an entry can
+# be left as "publishing"; delete the entry to release that tweet. A tweet X
+# rejects is recorded as "failed" with the reason and is not retried until its
+# entry is removed.
+#
+# All actions are pinned to commit hashes; the comment holds the ref.
+name: Publish scheduled tweets
+
+on:
+  repository_dispatch:
+    types:
+      - publish-scheduled-tweets
+  workflow_dispatch:
+
+permissions: {}
+
+# never let two runs publish at the same time
+concurrency:
+  group: publish-scheduled-tweets
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    name: Publish due tweets
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # records published tweets in .github/published-tweets.json
+    steps:
+      - name: checkout main
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Publish
+        uses: IstoraMandiri/twitter-together@74b015e28db495fd4f715542a05e0dc98974c9c7 # fix/x-com-urls
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET_KEY: ${{ secrets.TWITTER_API_SECRET_KEY }}

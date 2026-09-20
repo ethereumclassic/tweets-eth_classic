@@ -1,30 +1,56 @@
-on: [push, pull_request_target]
+# Publishes tweets from the tweets/ folder when they land on main and
+# previews them on pull requests.
+#
+# All actions are pinned to commit hashes; the comment holds the tag.
+# Bump the hash and the comment together.
 name: Twitter, together!
+
+on:
+  push:
+    branches:
+      - main
+  pull_request_target:
+    branches:
+      - main
+
+permissions: {}
+
+env:
+  # the posting account, used by the preview to check X's reply / quote rule
+  TWITTER_ACCOUNT: eth_classic
+
 jobs:
   preview:
     name: Preview
     runs-on: ubuntu-latest
     if: github.event_name == 'pull_request_target'
     permissions:
+      contents: read
       pull-requests: write
     steps:
       - name: checkout pull request
-        uses: actions/checkout@v3
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           ref: ${{ github.event.pull_request.head.sha }}
+          persist-credentials: false
       - name: Validate Tweets
-        uses: IstoraMandiri/twitter-together@etc
+        uses: IstoraMandiri/twitter-together@74b015e28db495fd4f715542a05e0dc98974c9c7 # fix/x-com-urls
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   tweet:
     name: Tweet
     runs-on: ubuntu-latest
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    if: github.event_name == 'push'
+    permissions:
+      contents: write # commit comments with the tweet URLs / errors
     steps:
       - name: checkout main
-        uses: actions/checkout@v3
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
       - name: Tweet
-        uses: IstoraMandiri/twitter-together@etc
+        uses: IstoraMandiri/twitter-together@74b015e28db495fd4f715542a05e0dc98974c9c7 # fix/x-com-urls
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}

@@ -106,23 +106,31 @@ Coming Soon.
 Hello, world!!!
 ```
 
-### Retweet (with no text)
+### Post links
 
-The URL MUST follow the exact format as below, without any tracking `?ctx=` parameters.
+`x.com`, `twitter.com` and `mobile.twitter.com` links are all accepted, with or without tracking parameters (`?s=20`).
+They are normalised to `https://x.com/[user]/status/[id]` when published.
+
+> **X restricts quotes and replies.** X only allows `@eth_classic` to quote or reply to posts that were written by
+> `@eth_classic` or that mention `@eth_classic`. Anything else is rejected by X when publishing, so the preview
+> fails early with an explanation. Plain retweets (no text) of any post are fine. To comment on someone else's post,
+> write a normal tweet and include the link to the post.
+
+### Retweet (with no text)
 
 ```tweet
 ---
-retweet: https://twitter.com/testing_tt_/status/1576500683087302656
+retweet: https://x.com/testing_tt_/status/1576500683087302656
 ---
 ```
 
 ### [Retweet (with text)](https://twitter.com/testing_tt_/status/1576502768604512256)
 
-The URL MUST follow the exact format as below, without any tracking `?ctx=` parameters.
+Only for posts by `@eth_classic` or that mention `@eth_classic`, see above.
 
 ```tweet
 ---
-retweet: https://twitter.com/testing_tt_/status/1576500683087302656
+retweet: https://x.com/testing_tt_/status/1576500683087302656
 ---
 
 Whoops!
@@ -130,11 +138,11 @@ Whoops!
 
 ### [Reply](https://twitter.com/testing_tt_/status/1576500683087302656#m)
 
-The URL MUST follow the exact format as below, without any tracking `?ctx=` parameters.
+Only for posts by `@eth_classic` or that mention `@eth_classic`, see above.
 
 ```tweet
 ---
-reply: https://twitter.com/testing_tt_/status/1576496789741391872
+reply: https://x.com/testing_tt_/status/1576496789741391872
 ---
 
 You forgot about orange!
@@ -168,6 +176,36 @@ poll:
 
 What is your favorite color?
 ```
+
+### Scheduled tweets
+
+Tweets are normally published the moment their pull request is merged. To publish at a specific time
+instead, add a `schedule` time in UTC to the tweet's front matter:
+
+```tweet
+---
+schedule: 2026-10-01T14:00:00Z
+---
+
+Future news!
+```
+
+The [contributions app](https://etc.contributions.app) adds this for you when you pick a schedule.
+
+A scheduled tweet is **not** published when its pull request is merged. Merging queues it in
+`.github/published-tweets.json`. Once an hour the contributions app checks that queue and, if
+anything is due, triggers the [publish workflow](/.github/workflows/publish-scheduled-tweets.yml),
+which sends it. Treat the time as "not before" rather than exact. Merging after the scheduled time
+is fine; it publishes on the next hourly check.
+
+Reviewers should merge a scheduled tweet whenever they are happy with it. There is no deadline to
+hit, because merging does not publish it.
+
+A tweet is claimed in the queue file before it is sent, so it can never go out twice. If a run is
+interrupted, an entry can be left as `"publishing"` and that tweet will not send; delete its entry to
+release it. A tweet X rejects is recorded as `"failed"` with the reason, and is not retried until its
+entry is removed. Maintainers can publish due tweets immediately, without waiting for the hourly
+check, with the "Run workflow" button on the publish workflow.
 
 ### [Threading](https://twitter.com/testing_tt_/status/1576508829965197314)
 
