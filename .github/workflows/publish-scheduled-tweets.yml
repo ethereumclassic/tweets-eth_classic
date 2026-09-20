@@ -4,11 +4,11 @@
 # is merged. It is queued in .github/published-tweets.json and published by
 # this workflow, which runs only when asked to:
 #
-#   - by the contributions app (https://etc.contributions.app), whose hourly
+#   - by the contributions app (https://etc.contributions.app), whose half-hourly
 #     cron checks the queue and sends a "publish-scheduled-tweets" dispatch
 #     event when something is due, so there are no empty runs here;
 #   - by a maintainer with the "Run workflow" button, to publish due tweets
-#     without waiting for the next hourly check.
+#     without waiting for the next check.
 #
 # This needs no credentials beyond the ones already configured for tweeting.
 #

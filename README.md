@@ -193,10 +193,10 @@ Future news!
 The [contributions app](https://etc.contributions.app) adds this for you when you pick a schedule.
 
 A scheduled tweet is **not** published when its pull request is merged. Merging queues it in
-`.github/published-tweets.json`. Once an hour the contributions app checks that queue and, if
+`.github/published-tweets.json`. Every 30 minutes the contributions app checks that queue and, if
 anything is due, triggers the [publish workflow](/.github/workflows/publish-scheduled-tweets.yml),
 which sends it. Treat the time as "not before" rather than exact. Merging after the scheduled time
-is fine; it publishes on the next hourly check.
+is fine; it publishes on the next check.
 
 Reviewers should merge a scheduled tweet whenever they are happy with it. There is no deadline to
 hit, because merging does not publish it.
@@ -204,7 +204,7 @@ hit, because merging does not publish it.
 A tweet is claimed in the queue file before it is sent, so it can never go out twice. If a run is
 interrupted, an entry can be left as `"publishing"` and that tweet will not send; delete its entry to
 release it. A tweet X rejects is recorded as `"failed"` with the reason, and is not retried until its
-entry is removed. Maintainers can publish due tweets immediately, without waiting for the hourly
+entry is removed. Maintainers can publish due tweets immediately, without waiting for the next
 check, with the "Run workflow" button on the publish workflow.
 
 ### [Threading](https://twitter.com/testing_tt_/status/1576508829965197314)
