@@ -12,11 +12,17 @@
 #
 # This needs no credentials beyond the ones already configured for tweeting.
 #
-# Each tweet is claimed in the ledger before it is sent, so an interrupted run
-# can never publish the same tweet twice. If a run is interrupted an entry can
-# be left as "publishing"; delete the entry to release that tweet. A tweet X
-# rejects is recorded as "failed" with the reason and is not retried until its
-# entry is removed.
+# Whether a tweet has been sent is recorded as a check run on the commit that
+# added its file. Only a GitHub App (this workflow's token) can create or
+# change check runs and nobody can delete them, so a record can neither be
+# forged to suppress a tweet nor removed to have it sent again. A record is
+# created before the tweet is sent, so an interrupted run can never publish
+# the same tweet twice. To retry a tweet X rejected, push a change to its
+# file.
+#
+# The queue of what is waiting, .github/published-tweets.json, lives on the
+# "published-tweets" branch (created automatically) because main only accepts
+# pull requests. It is only an index for the contributions app to read.
 #
 # All actions are pinned to commit hashes; the comment holds the ref.
 name: Publish scheduled tweets
@@ -39,14 +45,16 @@ jobs:
     name: Publish due tweets
     runs-on: ubuntu-latest
     permissions:
-      contents: write # records published tweets in .github/published-tweets.json
+      contents: write # the queue on the published-tweets branch
+      checks: write # publication records
     steps:
       - name: checkout main
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
+          fetch-depth: 0 # records attach to the commit that added each tweet
       - name: Publish
-        uses: IstoraMandiri/twitter-together@74b015e28db495fd4f715542a05e0dc98974c9c7 # fix/x-com-urls
+        uses: IstoraMandiri/twitter-together@9de0289ebcd165250388315b63b2bae4f8eebe40 # fix/x-com-urls
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
