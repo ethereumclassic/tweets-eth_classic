@@ -5,8 +5,14 @@
     "queuedAt": "2026-09-20T23:14:24.874Z"
   },
   "tweets/260920-2333-add-tweet-etc-community-call-60-now-live.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-09-21T00:10:00.000Z",
-    "queuedAt": "2026-09-21T00:09:03.168Z"
+    "queuedAt": "2026-09-21T00:09:03.168Z",
+    "claimedAt": "2026-09-21T00:30:59.064Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/106177169143",
+    "publishedAt": "2026-09-21T00:30:59.461Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2101831520503660796"
+    ]
   }
 }
