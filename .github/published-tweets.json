@@ -33,8 +33,14 @@
     ]
   },
   "tweets/260921-0521-add-tweet-with-media-two-inventions-defined-this.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-09-21T16:00:00.000Z",
-    "queuedAt": "2026-09-21T06:24:52.704Z"
+    "queuedAt": "2026-09-21T06:24:52.704Z",
+    "claimedAt": "2026-09-21T16:01:01.336Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/106409823528",
+    "publishedAt": "2026-09-21T16:01:10.031Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2102065606329512141"
+    ]
   }
 }
