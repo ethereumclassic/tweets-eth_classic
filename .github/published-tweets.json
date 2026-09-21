@@ -1,8 +1,14 @@
 {
   "tweets/260920-1302-add-tweet-still-alive-still-evm-compatible-still.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-09-21T07:00:00.000Z",
-    "queuedAt": "2026-09-20T23:14:24.874Z"
+    "queuedAt": "2026-09-20T23:14:24.874Z",
+    "claimedAt": "2026-09-21T07:01:01.917Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/106242304794",
+    "publishedAt": "2026-09-21T07:01:02.354Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2101929679414608260"
+    ]
   },
   "tweets/260920-2333-add-tweet-etc-community-call-60-now-live.tweet": {
     "status": "published",
