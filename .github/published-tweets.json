@@ -42,5 +42,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2102065606329512141"
     ]
+  },
+  "tweets/260922-0338-add-tweet-btc-most-secure-blockchain-via-pow.tweet": {
+    "status": "pending",
+    "scheduled": "2026-09-22T13:00:00.000Z",
+    "queuedAt": "2026-09-22T03:52:06.166Z"
   }
 }
