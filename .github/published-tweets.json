@@ -55,8 +55,14 @@
     ]
   },
   "tweets/260923-0158-add-tweet-with-media-25000000-blocks-11-years.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-09-23T15:00:00.000Z",
-    "queuedAt": "2026-09-23T03:12:36.912Z"
+    "queuedAt": "2026-09-23T03:12:36.912Z",
+    "claimedAt": "2026-09-23T15:01:02.791Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/107240322734",
+    "publishedAt": "2026-09-23T15:01:04.270Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2102775258600083787"
+    ]
   }
 }
