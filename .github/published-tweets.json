@@ -66,8 +66,14 @@
     ]
   },
   "tweets/260924-0251-add-tweet-etc-is-the-only-major-smart.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-09-24T13:00:00.000Z",
-    "queuedAt": "2026-09-24T08:52:16.827Z"
+    "queuedAt": "2026-09-24T08:52:16.827Z",
+    "claimedAt": "2026-09-24T13:01:02.510Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/107643325841",
+    "publishedAt": "2026-09-24T13:01:02.967Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2103107442347327907"
+    ]
   }
 }
