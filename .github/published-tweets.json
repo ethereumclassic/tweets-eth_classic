@@ -64,5 +64,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2102775258600083787"
     ]
+  },
+  "tweets/260924-0251-add-tweet-etc-is-the-only-major-smart.tweet": {
+    "status": "pending",
+    "scheduled": "2026-09-24T13:00:00.000Z",
+    "queuedAt": "2026-09-24T08:52:16.827Z"
   }
 }
