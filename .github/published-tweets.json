@@ -75,5 +75,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2103107442347327907"
     ]
+  },
+  "tweets/260925-0427-add-tweet-with-media-this-summer-etc-entered.tweet": {
+    "status": "pending",
+    "scheduled": "2026-09-25T14:00:00.000Z",
+    "queuedAt": "2026-09-25T19:14:06.526Z"
   }
 }
