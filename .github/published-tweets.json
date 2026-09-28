@@ -86,5 +86,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2103567974971900036"
     ]
+  },
+  "tweets/260928-0340-add-tweet-etc-community-call-61-edilson-osrio.tweet": {
+    "status": "pending",
+    "scheduled": "2026-09-28T14:00:00.000Z",
+    "queuedAt": "2026-09-28T07:11:40.929Z"
   }
 }
