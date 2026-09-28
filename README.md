@@ -111,10 +111,13 @@ Hello, world!!!
 `x.com`, `twitter.com` and `mobile.twitter.com` links are all accepted, with or without tracking parameters (`?s=20`).
 They are normalised to `https://x.com/[user]/status/[id]` when published.
 
-> **X restricts quotes and replies.** X only allows `@eth_classic` to quote or reply to posts that were written by
-> `@eth_classic` or that mention `@eth_classic`. Anything else is rejected by X when publishing, so the preview
-> fails early with an explanation. Plain retweets (no text) of any post are fine. To comment on someone else's post,
-> write a normal tweet and include the link to the post.
+> **Quotes are published as a link.** X's API refuses quote tweets of posts that don't mention `@eth_classic`, so a
+> retweet with text is published as the text with the post link appended at the end, which X shows as a quote of any
+> public post. The link counts as 23 characters towards the 280 limit, and the text cannot contain any other links.
+>
+> **X may refuse replies** to posts that were not written by `@eth_classic` and don't mention `@eth_classic`. The
+> preview warns about these but does not block them, since X doesn't always enforce it. If a reply fails to publish,
+> write a normal tweet that includes the link to the post instead.
 
 ### Retweet (with no text)
 
@@ -126,7 +129,7 @@ retweet: https://x.com/testing_tt_/status/1576500683087302656
 
 ### [Retweet (with text)](https://twitter.com/testing_tt_/status/1576502768604512256)
 
-Only for posts by `@eth_classic` or that mention `@eth_classic`, see above.
+Works for any public post; published with the link appended, see above. Don't include other links in the text.
 
 ```tweet
 ---
@@ -138,7 +141,7 @@ Whoops!
 
 ### [Reply](https://twitter.com/testing_tt_/status/1576500683087302656#m)
 
-Only for posts by `@eth_classic` or that mention `@eth_classic`, see above.
+Best for posts by `@eth_classic` or that mention `@eth_classic`, see above.
 
 ```tweet
 ---
