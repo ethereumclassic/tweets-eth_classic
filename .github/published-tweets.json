@@ -88,8 +88,14 @@
     ]
   },
   "tweets/260928-0340-add-tweet-etc-community-call-61-edilson-osrio.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-09-28T14:00:00.000Z",
-    "queuedAt": "2026-09-28T07:11:40.929Z"
+    "queuedAt": "2026-09-28T07:11:40.929Z",
+    "claimedAt": "2026-09-28T14:01:03.734Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/108962982389",
+    "publishedAt": "2026-09-28T14:01:04.215Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2104572098622455989"
+    ]
   }
 }
