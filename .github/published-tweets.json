@@ -104,9 +104,15 @@
     ]
   },
   "tweets/260929-0144-add-tweet-gold-held-value-for-millennia-because.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-09-29T13:00:00.000Z",
-    "queuedAt": "2026-09-29T09:58:14.265Z"
+    "queuedAt": "2026-09-29T09:58:14.265Z",
+    "claimedAt": "2026-09-29T13:01:00.861Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/109418226217",
+    "publishedAt": "2026-09-29T13:01:01.363Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2104919374993756514"
+    ]
   },
   "tweets/260929-0152-add-retweet-classiciscoming-etcs-market-position-is-structural.tweet": {
     "status": "published",
