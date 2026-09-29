@@ -1,8 +1,14 @@
 {
   "tweets/260914-0113-add-retweet-drdamalways-same-history-different-era-still.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-09-29T14:00:00.000Z",
-    "queuedAt": "2026-09-29T09:56:37.403Z"
+    "queuedAt": "2026-09-29T09:56:37.403Z",
+    "claimedAt": "2026-09-29T14:01:03.226Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/109443450433",
+    "publishedAt": "2026-09-29T14:01:03.719Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2104934484227317816"
+    ]
   },
   "tweets/260920-1302-add-tweet-still-alive-still-evm-compatible-still.tweet": {
     "status": "published",
