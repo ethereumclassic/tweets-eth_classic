@@ -132,8 +132,14 @@
     ]
   },
   "tweets/260929-2110-add-tweet-ask-any-chain-two-questions-1.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-09-30T15:00:00.000Z",
-    "queuedAt": "2026-09-30T19:47:43.703Z"
+    "queuedAt": "2026-09-30T19:47:43.703Z",
+    "claimedAt": "2026-09-30T20:01:01.575Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/110072519310",
+    "publishedAt": "2026-09-30T20:01:02.088Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2105387462205768115"
+    ]
   }
 }
