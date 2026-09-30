@@ -130,5 +130,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2104874083108196568"
     ]
+  },
+  "tweets/260929-2110-add-tweet-ask-any-chain-two-questions-1.tweet": {
+    "status": "pending",
+    "scheduled": "2026-09-30T15:00:00.000Z",
+    "queuedAt": "2026-09-30T19:47:43.703Z"
   }
 }
