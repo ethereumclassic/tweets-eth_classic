@@ -18,6 +18,10 @@ permissions: {}
 env:
   # the posting account, used by the preview to check X's reply / quote rule
   TWITTER_ACCOUNT: eth_classic
+  # hosts media `url:` items may come from; "*" = any public https host
+  # (the contributions app uploads videos to its Vercel Blob store, and lets
+  # contributors link to files elsewhere)
+  MEDIA_URL_HOSTS: "*"
 
 jobs:
   preview:
@@ -34,7 +38,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
           persist-credentials: false
       - name: Validate Tweets
-        uses: IstoraMandiri/twitter-together@ae85b586ce0b5dfcfc2a50fa75fb2ed6926f2f97 # fix/quote-policy-warning
+        uses: IstoraMandiri/twitter-together@d3ba5dfb3189cf6e9bcf2bf61e82e496fe69594e # feat/blob-media
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -50,7 +54,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Tweet
-        uses: IstoraMandiri/twitter-together@ae85b586ce0b5dfcfc2a50fa75fb2ed6926f2f97 # fix/quote-policy-warning
+        uses: IstoraMandiri/twitter-together@d3ba5dfb3189cf6e9bcf2bf61e82e496fe69594e # feat/blob-media
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}

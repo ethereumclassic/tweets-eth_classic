@@ -167,6 +167,24 @@ media:
 Here are some cute animals!
 ```
 
+Media can also be a link to a file elsewhere, which is downloaded when the tweet is published. The
+[contributions app](https://etc.contributions.app) uploads videos this way, and lets you link to images or
+videos instead of uploading them:
+
+```tweet
+---
+media:
+  - url: https://example.com/explainer.mp4
+    alt: A short explainer
+---
+
+Watch our new explainer!
+```
+
+A tweet can have up to 4 images, or a single video (MP4, up to 512MB) or GIF, but not both. Links must be
+`https://` and point to the file itself; the pull request preview checks that it exists and has the right type
+and size.
+
 ### [Poll](https://twitter.com/testing_tt_/status/1576496789741391872)
 
 ```tweet
