@@ -141,5 +141,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2105387462205768115"
     ]
+  },
+  "tweets/261001-0200-add-tweet-with-media-satoshi-kept-bitcoin-simple.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-01T10:30:00.000Z",
+    "queuedAt": "2026-10-01T20:19:03.427Z"
   }
 }
