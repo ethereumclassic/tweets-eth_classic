@@ -143,8 +143,14 @@
     ]
   },
   "tweets/261001-0200-add-tweet-with-media-satoshi-kept-bitcoin-simple.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-01T10:30:00.000Z",
-    "queuedAt": "2026-10-01T20:19:03.427Z"
+    "queuedAt": "2026-10-01T20:19:03.427Z",
+    "claimedAt": "2026-10-01T20:31:02.052Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/110570532802",
+    "publishedAt": "2026-10-01T20:31:05.014Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2105757411717841110"
+    ]
   }
 }
