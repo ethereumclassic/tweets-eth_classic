@@ -1,0 +1,23 @@
+---
+media:
+  - file: 261002-0408-add-tweet-with-media-verifriday-001-same-tools.png
+schedule: 2026-10-02T15:00:00.000Z
+---
+
+#VeriFriday 001
+
+Same tools. Different foundation.
+
+#EthereumClassic runs the stack you already use:
+
+Hardhat ✅
+Foundry ✅
+ethers.js ✅
+viem ✅
+wagmi ✅
+
+Chain ID 61. Swap the RPC.
+
+Your code doesn't change. What secures it does.
+
+Don't trust. Verify. Run it yourself 👇
