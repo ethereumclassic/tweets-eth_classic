@@ -154,8 +154,14 @@
     ]
   },
   "tweets/261002-0408-add-tweet-with-media-verifriday-001-same-tools.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-02T15:00:00.000Z",
-    "queuedAt": "2026-10-02T06:44:31.522Z"
+    "queuedAt": "2026-10-02T06:44:31.522Z",
+    "claimedAt": "2026-10-02T15:01:01.184Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/110893728768",
+    "publishedAt": "2026-10-02T15:01:02.379Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2106036741459112425"
+    ]
   }
 }
