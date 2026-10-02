@@ -152,5 +152,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2105757411717841110"
     ]
+  },
+  "tweets/261002-0408-add-tweet-with-media-verifriday-001-same-tools.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-02T15:00:00.000Z",
+    "queuedAt": "2026-10-02T06:44:31.522Z"
   }
 }
