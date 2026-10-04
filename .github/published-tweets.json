@@ -163,5 +163,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2106036741459112425"
     ]
+  },
+  "tweets/261003-0730-add-tweet-with-media-quick-quiz-whats-your.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-03T15:00:00.000Z",
+    "queuedAt": "2026-10-04T08:32:28.628Z"
   }
 }
