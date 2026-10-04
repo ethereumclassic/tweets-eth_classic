@@ -165,8 +165,14 @@
     ]
   },
   "tweets/261003-0730-add-tweet-with-media-quick-quiz-whats-your.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-03T15:00:00.000Z",
-    "queuedAt": "2026-10-04T08:32:28.628Z"
+    "queuedAt": "2026-10-04T08:32:28.628Z",
+    "claimedAt": "2026-10-04T09:00:59.387Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/111402296841",
+    "publishedAt": "2026-10-04T09:01:00.516Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2106670912376369385"
+    ]
   }
 }
