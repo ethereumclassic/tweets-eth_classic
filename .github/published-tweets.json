@@ -176,9 +176,15 @@
     ]
   },
   "tweets/261005-0354-add-tweet-etc-community-call-61-now-live.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-05T15:00:00.000Z",
-    "queuedAt": "2026-10-05T12:32:58.777Z"
+    "queuedAt": "2026-10-05T12:32:58.777Z",
+    "claimedAt": "2026-10-05T15:01:16.986Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/111828388128",
+    "publishedAt": "2026-10-05T15:01:17.353Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2107123968398524439"
+    ]
   },
   "tweets/261005-0547-add-tweet-with-media-7-years-ago-yesterday.tweet": {
     "status": "pending",
