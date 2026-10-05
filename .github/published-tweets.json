@@ -187,8 +187,14 @@
     ]
   },
   "tweets/261005-0547-add-tweet-with-media-7-years-ago-yesterday.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-05T15:30:00.000Z",
-    "queuedAt": "2026-10-05T06:16:48.435Z"
+    "queuedAt": "2026-10-05T06:16:48.435Z",
+    "claimedAt": "2026-10-05T15:31:05.623Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/111842157515",
+    "publishedAt": "2026-10-05T15:31:11.567Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2107131493713907924"
+    ]
   }
 }
