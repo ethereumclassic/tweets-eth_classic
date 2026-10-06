@@ -198,9 +198,15 @@
     ]
   },
   "tweets/261006-0008-add-tweet-with-media-why-is-originalmycom-still.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-06T15:00:00.000Z",
-    "queuedAt": "2026-10-06T01:19:24.077Z"
+    "queuedAt": "2026-10-06T01:19:24.077Z",
+    "claimedAt": "2026-10-06T15:01:04.098Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/112338564523",
+    "publishedAt": "2026-10-06T15:01:10.515Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2107486327411524069"
+    ]
   },
   "tweets/261006-0019-add-tweet-with-media-three-leaves-one-clover.tweet": {
     "status": "published",
