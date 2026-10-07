@@ -220,9 +220,15 @@
     ]
   },
   "tweets/261007-0049-add-retweet-wublockchain-ai-agents-may-become-the.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-07T14:00:00.000Z",
-    "queuedAt": "2026-10-07T11:37:31.999Z"
+    "queuedAt": "2026-10-07T11:37:31.999Z",
+    "claimedAt": "2026-10-07T14:01:07.702Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/112832491584",
+    "publishedAt": "2026-10-07T14:01:08.089Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2107833605666099503"
+    ]
   },
   "tweets/261007-0117-add-tweet-with-media-every-cycle-somebody-declares.tweet": {
     "status": "pending",
