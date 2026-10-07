@@ -231,9 +231,15 @@
     ]
   },
   "tweets/261007-0117-add-tweet-with-media-every-cycle-somebody-declares.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-07T15:00:00.000Z",
-    "queuedAt": "2026-10-07T11:38:11.874Z"
+    "queuedAt": "2026-10-07T11:38:11.874Z",
+    "claimedAt": "2026-10-07T15:01:08.626Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/112861486469",
+    "publishedAt": "2026-10-07T15:01:09.790Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2107848711917236322"
+    ]
   },
   "tweets/261007-0204-add-tweet-with-media-etc-block-reward-by.tweet": {
     "status": "pending",
