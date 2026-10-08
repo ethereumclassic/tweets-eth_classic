@@ -251,5 +251,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2108165769259286566"
     ]
+  },
+  "tweets/261008-0253-add-tweet-with-media-a-proof-is-only.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-08T15:00:00.000Z",
+    "queuedAt": "2026-10-08T14:31:51.162Z"
   }
 }
