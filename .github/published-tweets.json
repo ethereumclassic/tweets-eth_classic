@@ -253,8 +253,14 @@
     ]
   },
   "tweets/261008-0253-add-tweet-with-media-a-proof-is-only.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-08T15:00:00.000Z",
-    "queuedAt": "2026-10-08T14:31:51.162Z"
+    "queuedAt": "2026-10-08T14:31:51.162Z",
+    "claimedAt": "2026-10-08T15:01:00.387Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/113379753072",
+    "publishedAt": "2026-10-08T15:01:13.604Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2108211115997978886"
+    ]
   }
 }
