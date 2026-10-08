@@ -242,8 +242,14 @@
     ]
   },
   "tweets/261007-0204-add-tweet-with-media-etc-block-reward-by.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-08T12:00:00.000Z",
-    "queuedAt": "2026-10-07T11:38:05.848Z"
+    "queuedAt": "2026-10-07T11:38:05.848Z",
+    "claimedAt": "2026-10-08T12:01:00.975Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/113299935438",
+    "publishedAt": "2026-10-08T12:01:02.119Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2108165769259286566"
+    ]
   }
 }
