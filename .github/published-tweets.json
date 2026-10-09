@@ -264,8 +264,14 @@
     ]
   },
   "tweets/261009-0137-add-retweet-etcgrantsdao-entries-are-already-coming-in.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-09T02:30:00.000Z",
-    "queuedAt": "2026-10-09T04:23:44.787Z"
+    "queuedAt": "2026-10-09T04:23:44.787Z",
+    "claimedAt": "2026-10-09T04:31:00.873Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/113670547084",
+    "publishedAt": "2026-10-09T04:31:01.360Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2108414907947348395"
+    ]
   }
 }
