@@ -263,6 +263,11 @@
       "https://x.com/eth_classic/status/2108211115997978886"
     ]
   },
+  "tweets/261008-2123-add-tweet-etc-is-back-on-google-bigquery.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-09T13:00:00.000Z",
+    "queuedAt": "2026-10-09T19:32:15.083Z"
+  },
   "tweets/261009-0137-add-retweet-etcgrantsdao-entries-are-already-coming-in.tweet": {
     "status": "published",
     "scheduled": "2026-10-09T02:30:00.000Z",
