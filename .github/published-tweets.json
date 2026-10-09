@@ -264,9 +264,15 @@
     ]
   },
   "tweets/261008-2123-add-tweet-etc-is-back-on-google-bigquery.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-09T13:00:00.000Z",
-    "queuedAt": "2026-10-09T19:32:15.083Z"
+    "queuedAt": "2026-10-09T19:32:15.083Z",
+    "claimedAt": "2026-10-09T20:01:00.873Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/114001707805",
+    "publishedAt": "2026-10-09T20:01:01.312Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2108648949967974537"
+    ]
   },
   "tweets/261009-0137-add-retweet-etcgrantsdao-entries-are-already-coming-in.tweet": {
     "status": "published",
