@@ -262,5 +262,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2108211115997978886"
     ]
+  },
+  "tweets/261009-0137-add-retweet-etcgrantsdao-entries-are-already-coming-in.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-09T02:30:00.000Z",
+    "queuedAt": "2026-10-09T04:23:44.787Z"
   }
 }
