@@ -286,8 +286,14 @@
     ]
   },
   "tweets/261011-0014-add-tweet-your-weekend-listen-originalmycom-continues-to.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-11T01:00:00.000Z",
-    "queuedAt": "2026-10-11T05:30:46.128Z"
+    "queuedAt": "2026-10-11T05:30:46.128Z",
+    "claimedAt": "2026-10-11T05:31:01.887Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/114398122390",
+    "publishedAt": "2026-10-11T05:31:02.289Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2109154787199680928"
+    ]
   }
 }
