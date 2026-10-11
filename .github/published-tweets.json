@@ -297,8 +297,14 @@
     ]
   },
   "tweets/261011-0045-add-tweet-with-media-over-11-years-of.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-11T16:00:00.000Z",
-    "queuedAt": "2026-10-11T05:32:35.453Z"
+    "queuedAt": "2026-10-11T05:32:35.453Z",
+    "claimedAt": "2026-10-11T16:01:01.592Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/114512158317",
+    "publishedAt": "2026-10-11T16:01:02.859Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2109313333794877881"
+    ]
   }
 }
