@@ -308,8 +308,14 @@
     ]
   },
   "tweets/261012-0427-add-tweet-proof-of-work-smart-contracts-a.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-12T16:00:00.000Z",
-    "queuedAt": "2026-10-12T19:19:50.450Z"
+    "queuedAt": "2026-10-12T19:19:50.450Z",
+    "claimedAt": "2026-10-12T19:31:01.919Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/114974226977",
+    "publishedAt": "2026-10-12T19:31:02.386Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2109728568401936761"
+    ]
   }
 }
