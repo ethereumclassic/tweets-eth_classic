@@ -306,5 +306,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2109313333794877881"
     ]
+  },
+  "tweets/261012-0427-add-tweet-proof-of-work-smart-contracts-a.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-12T16:00:00.000Z",
+    "queuedAt": "2026-10-12T19:19:50.450Z"
   }
 }
