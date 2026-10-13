@@ -318,6 +318,11 @@
       "https://x.com/eth_classic/status/2109728568401936761"
     ]
   },
+  "tweets/261013-0212-add-tweet-with-media-1933-americans-were-ordered.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-13T15:00:00.000Z",
+    "queuedAt": "2026-10-13T06:52:03.813Z"
+  },
   "tweets/261013-0227-add-tweet-with-media-scarce-like-gold-programmable.tweet": {
     "status": "pending",
     "scheduled": "2026-10-13T19:00:00.000Z",
