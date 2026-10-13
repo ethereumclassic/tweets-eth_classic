@@ -317,5 +317,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2109728568401936761"
     ]
+  },
+  "tweets/261013-0227-add-tweet-with-media-scarce-like-gold-programmable.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-13T19:00:00.000Z",
+    "queuedAt": "2026-10-13T06:51:57.502Z"
   }
 }
