@@ -319,9 +319,15 @@
     ]
   },
   "tweets/261013-0212-add-tweet-with-media-1933-americans-were-ordered.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-13T15:00:00.000Z",
-    "queuedAt": "2026-10-13T06:52:03.813Z"
+    "queuedAt": "2026-10-13T06:52:03.813Z",
+    "claimedAt": "2026-10-13T15:01:05.023Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/115368830933",
+    "publishedAt": "2026-10-13T15:01:06.212Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2110023024049295362"
+    ]
   },
   "tweets/261013-0227-add-tweet-with-media-scarce-like-gold-programmable.tweet": {
     "status": "pending",
