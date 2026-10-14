@@ -341,8 +341,14 @@
     ]
   },
   "tweets/261013-2315-add-tweet-with-media-what-do-people-get.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-14T16:30:00.000Z",
-    "queuedAt": "2026-10-14T00:59:31.759Z"
+    "queuedAt": "2026-10-14T00:59:31.759Z",
+    "claimedAt": "2026-10-14T16:31:04.813Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/115972145695",
+    "publishedAt": "2026-10-14T16:31:05.941Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2110408059994697750"
+    ]
   }
 }
