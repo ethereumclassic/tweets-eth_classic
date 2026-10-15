@@ -352,9 +352,15 @@
     ]
   },
   "tweets/261014-2302-add-tweet-with-media-bitcoin-gave-the-world.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-15T13:30:00.000Z",
-    "queuedAt": "2026-10-15T03:53:56.722Z"
+    "queuedAt": "2026-10-15T03:53:56.722Z",
+    "claimedAt": "2026-10-15T13:31:03.759Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/116450476928",
+    "publishedAt": "2026-10-15T13:31:05.301Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2110725146717642950"
+    ]
   },
   "tweets/261015-0135-add-tweet-with-media-pivots-make-headlines-consistency.tweet": {
     "status": "pending",
