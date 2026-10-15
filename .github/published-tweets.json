@@ -350,5 +350,10 @@
     "urls": [
       "https://x.com/eth_classic/status/2110408059994697750"
     ]
+  },
+  "tweets/261015-0158-add-tweet-your-weekend-listen-61-etc-community.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-18T15:00:00.000Z",
+    "queuedAt": "2026-10-15T03:53:51.005Z"
   }
 }
