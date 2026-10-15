@@ -356,6 +356,11 @@
     "scheduled": "2026-10-15T13:30:00.000Z",
     "queuedAt": "2026-10-15T03:53:56.722Z"
   },
+  "tweets/261015-0135-add-tweet-with-media-pivots-make-headlines-consistency.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-17T14:00:00.000Z",
+    "queuedAt": "2026-10-15T03:56:25.670Z"
+  },
   "tweets/261015-0158-add-tweet-your-weekend-listen-61-etc-community.tweet": {
     "status": "pending",
     "scheduled": "2026-10-18T15:00:00.000Z",
