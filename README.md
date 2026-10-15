@@ -113,7 +113,7 @@ They are normalised to `https://x.com/[user]/status/[id]` when published.
 
 > **Quotes are published as a link.** X's API refuses quote tweets of posts that don't mention `@eth_classic`, so a
 > retweet with text is published as the text with the post link appended at the end, which X shows as a quote of any
-> public post. The link counts as 23 characters towards the 280 limit, and the text cannot contain any other links.
+> public post. The link counts as 23 characters towards the character limit, and the text cannot contain any other links.
 >
 > **X may refuse replies** to posts that were not written by `@eth_classic` and don't mention `@eth_classic`. The
 > preview warns about these but does not block them, since X doesn't always enforce it. If a reply fails to publish,
