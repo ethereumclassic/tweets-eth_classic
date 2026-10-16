@@ -371,5 +371,10 @@
     "status": "pending",
     "scheduled": "2026-10-18T15:00:00.000Z",
     "queuedAt": "2026-10-15T03:53:51.005Z"
+  },
+  "tweets/261016-1712-add-retweet-etcgrantsdao-thats-a-wrap-on-the.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-16T18:00:00.000Z",
+    "queuedAt": "2026-10-16T23:14:23.321Z"
   }
 }
