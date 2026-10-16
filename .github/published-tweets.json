@@ -373,8 +373,15 @@
     "queuedAt": "2026-10-15T03:53:51.005Z"
   },
   "tweets/261016-1712-add-retweet-etcgrantsdao-thats-a-wrap-on-the.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-16T18:00:00.000Z",
-    "queuedAt": "2026-10-16T23:14:23.321Z"
+    "queuedAt": "2026-10-16T23:14:23.321Z",
+    "claimedAt": "2026-10-16T23:31:02.166Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/117244275812",
+    "publishedAt": "2026-10-16T23:31:02.571Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2111238518525845677"
+    ],
+    "pullRequest": 364
   }
 }
