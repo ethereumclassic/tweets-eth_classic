@@ -363,9 +363,16 @@
     ]
   },
   "tweets/261015-0135-add-tweet-with-media-pivots-make-headlines-consistency.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-17T14:00:00.000Z",
-    "queuedAt": "2026-10-15T03:56:25.670Z"
+    "queuedAt": "2026-10-15T03:56:25.670Z",
+    "claimedAt": "2026-10-17T14:01:01.808Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/117414326337",
+    "publishedAt": "2026-10-17T14:01:02.794Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2111457461781864716"
+    ],
+    "pullRequest": 361
   },
   "tweets/261015-0158-add-tweet-your-weekend-listen-61-etc-community.tweet": {
     "status": "pending",
