@@ -375,9 +375,16 @@
     "pullRequest": 361
   },
   "tweets/261015-0158-add-tweet-your-weekend-listen-61-etc-community.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-18T15:00:00.000Z",
-    "queuedAt": "2026-10-15T03:53:51.005Z"
+    "queuedAt": "2026-10-15T03:53:51.005Z",
+    "claimedAt": "2026-10-18T15:01:00.877Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/117708025189",
+    "publishedAt": "2026-10-18T15:01:01.243Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2111834943059882066"
+    ],
+    "pullRequest": 362
   },
   "tweets/261016-1712-add-retweet-etcgrantsdao-thats-a-wrap-on-the.tweet": {
     "status": "published",
