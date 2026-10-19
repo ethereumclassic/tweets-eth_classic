@@ -397,5 +397,10 @@
       "https://x.com/eth_classic/status/2111238518525845677"
     ],
     "pullRequest": 364
+  },
+  "tweets/261019-0231-add-tweet-with-media-programmable-money-waits-for.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-20T14:30:00.000Z",
+    "queuedAt": "2026-10-19T14:28:07.145Z"
   }
 }
