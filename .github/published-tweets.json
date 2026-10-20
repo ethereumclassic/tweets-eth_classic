@@ -399,9 +399,16 @@
     "pullRequest": 364
   },
   "tweets/261019-0231-add-tweet-with-media-programmable-money-waits-for.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-20T14:30:00.000Z",
-    "queuedAt": "2026-10-19T14:28:07.145Z"
+    "queuedAt": "2026-10-19T14:28:07.145Z",
+    "claimedAt": "2026-10-20T14:31:00.910Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/118686759686",
+    "publishedAt": "2026-10-20T14:31:02.061Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2112552171791106092"
+    ],
+    "pullRequest": 366
   },
   "tweets/261019-0249-add-tweet-rough-week-ethereum-classic-got-its.tweet": {
     "status": "published",
