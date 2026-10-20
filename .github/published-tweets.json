@@ -421,9 +421,16 @@
     "queuedAt": "2026-10-19T14:36:35.296Z"
   },
   "tweets/261020-0014-add-retweet-classiciscoming-quietest-day-of-the-year.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-20T01:00:00.000Z",
-    "queuedAt": "2026-10-20T08:13:47.928Z"
+    "queuedAt": "2026-10-20T08:13:47.928Z",
+    "claimedAt": "2026-10-20T08:31:05.378Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/118531990945",
+    "publishedAt": "2026-10-20T08:31:05.839Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2112461591296000259"
+    ],
+    "pullRequest": 369
   },
   "tweets/261020-0020-add-tweet-attention-all-etc-builders-miners-stakeholders.tweet": {
     "status": "pending",
