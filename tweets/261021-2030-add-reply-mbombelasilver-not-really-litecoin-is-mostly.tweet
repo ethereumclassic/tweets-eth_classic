@@ -1,0 +1,9 @@
+---
+reply: https://x.com/mbombelasilver/status/2112975919648571774
+---
+
+Not really. Litecoin is mostly a payments coin with no Layer-1 programmability. ETC runs the EVM, so it can do smart contracts, tokens, DeFi, all of that, and it’s the biggest proof-of-work chain that does.
+
+The mix is what sets it apart: proof of work, smart contracts, and a supply that tops out around 210.7M because the block reward drops 20% every 5M blocks.
+
+Bitcoin [and Litecoin] have proof of work but no native smart contracts. Ethereum has smart contracts but moved to proof of stake and has no supply cap. ETC kept both of Ethereum’s original choices.
