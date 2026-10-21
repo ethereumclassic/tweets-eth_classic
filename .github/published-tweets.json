@@ -423,9 +423,16 @@
     "pullRequest": 367
   },
   "tweets/261019-0301-add-tweet-with-media-no-foundation-can-inflate.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-21T14:00:00.000Z",
-    "queuedAt": "2026-10-19T14:36:35.296Z"
+    "queuedAt": "2026-10-19T14:36:35.296Z",
+    "claimedAt": "2026-10-21T14:01:04.783Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/119266809758",
+    "publishedAt": "2026-10-21T14:01:06.110Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2112907027039064482"
+    ],
+    "pullRequest": 368
   },
   "tweets/261020-0014-add-retweet-classiciscoming-quietest-day-of-the-year.tweet": {
     "status": "published",
