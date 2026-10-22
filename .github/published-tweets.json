@@ -467,5 +467,10 @@
     "status": "pending",
     "scheduled": "2026-10-23T15:00:00.000Z",
     "queuedAt": "2026-10-22T23:55:08.675Z"
+  },
+  "tweets/261021-2133-add-tweet-your-weekend-listen-code-is-law.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-25T15:00:00.000Z",
+    "queuedAt": "2026-10-22T23:58:18.694Z"
   }
 }
