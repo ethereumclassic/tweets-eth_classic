@@ -462,5 +462,10 @@
     "status": "pending",
     "scheduled": "2026-10-22T14:30:00.000Z",
     "queuedAt": "2026-10-22T23:53:43.639Z"
+  },
+  "tweets/261021-2120-add-tweet-verifriday-002-running-your-own-node.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-23T15:00:00.000Z",
+    "queuedAt": "2026-10-22T23:55:08.675Z"
   }
 }
