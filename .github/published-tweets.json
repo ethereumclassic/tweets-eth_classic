@@ -457,5 +457,10 @@
       "https://x.com/eth_classic/status/2112521974274539719"
     ],
     "pullRequest": 370
+  },
+  "tweets/261021-2108-add-tweet-with-media-throwback-to-ethcc-in.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-22T14:30:00.000Z",
+    "queuedAt": "2026-10-22T23:53:43.639Z"
   }
 }
