@@ -459,9 +459,16 @@
     "pullRequest": 370
   },
   "tweets/261021-2108-add-tweet-with-media-throwback-to-ethcc-in.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-22T14:30:00.000Z",
-    "queuedAt": "2026-10-22T23:53:43.639Z"
+    "queuedAt": "2026-10-22T23:53:43.639Z",
+    "claimedAt": "2026-10-23T00:01:00.775Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/120159917759",
+    "publishedAt": "2026-10-23T00:01:04.746Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2113420404677366135"
+    ],
+    "pullRequest": 375
   },
   "tweets/261021-2120-add-tweet-verifriday-002-running-your-own-node.tweet": {
     "status": "pending",
