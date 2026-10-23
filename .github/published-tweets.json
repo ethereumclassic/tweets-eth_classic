@@ -471,9 +471,16 @@
     "pullRequest": 375
   },
   "tweets/261021-2120-add-tweet-verifriday-002-running-your-own-node.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-23T15:00:00.000Z",
-    "queuedAt": "2026-10-22T23:55:08.675Z"
+    "queuedAt": "2026-10-22T23:55:08.675Z",
+    "claimedAt": "2026-10-23T15:01:03.320Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/120485777756",
+    "publishedAt": "2026-10-23T15:01:03.751Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2113646892894781816"
+    ],
+    "pullRequest": 376
   },
   "tweets/261021-2125-add-tweet-in-2016-rewriting-the-ledger-would.tweet": {
     "status": "pending",
