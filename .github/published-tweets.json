@@ -493,8 +493,15 @@
     "queuedAt": "2026-10-22T23:58:18.694Z"
   },
   "tweets/261024-0112-add-tweet-etc-community-call-62-is-live.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-24T13:00:00.000Z",
-    "queuedAt": "2026-10-24T13:24:37.453Z"
+    "queuedAt": "2026-10-24T13:24:37.453Z",
+    "claimedAt": "2026-10-24T13:31:00.006Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/120885551563",
+    "publishedAt": "2026-10-24T13:31:00.446Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2113986617723511245"
+    ],
+    "pullRequest": 383
   }
 }
