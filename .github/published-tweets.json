@@ -483,9 +483,16 @@
     "pullRequest": 376
   },
   "tweets/261021-2125-add-tweet-in-2016-rewriting-the-ledger-would.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-24T15:00:00.000Z",
-    "queuedAt": "2026-10-22T23:58:40.997Z"
+    "queuedAt": "2026-10-22T23:58:40.997Z",
+    "claimedAt": "2026-10-24T15:01:02.682Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/120904896935",
+    "publishedAt": "2026-10-24T15:01:03.149Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2114009278222938347"
+    ],
+    "pullRequest": 377
   },
   "tweets/261021-2133-add-tweet-your-weekend-listen-code-is-law.tweet": {
     "status": "pending",
