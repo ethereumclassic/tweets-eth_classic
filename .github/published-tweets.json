@@ -491,5 +491,10 @@
     "status": "pending",
     "scheduled": "2026-10-25T15:00:00.000Z",
     "queuedAt": "2026-10-22T23:58:18.694Z"
+  },
+  "tweets/261024-0112-add-tweet-etc-community-call-62-is-live.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-24T13:00:00.000Z",
+    "queuedAt": "2026-10-24T13:24:37.453Z"
   }
 }
