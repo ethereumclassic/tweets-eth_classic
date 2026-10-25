@@ -495,9 +495,16 @@
     "pullRequest": 377
   },
   "tweets/261021-2133-add-tweet-your-weekend-listen-code-is-law.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-25T15:00:00.000Z",
-    "queuedAt": "2026-10-22T23:58:18.694Z"
+    "queuedAt": "2026-10-22T23:58:18.694Z",
+    "claimedAt": "2026-10-25T15:01:00.277Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/121203724346",
+    "publishedAt": "2026-10-25T15:01:00.752Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2114371655992528919"
+    ],
+    "pullRequest": 378
   },
   "tweets/261024-0112-add-tweet-etc-community-call-62-is-live.tweet": {
     "status": "published",
