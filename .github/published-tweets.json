@@ -517,5 +517,10 @@
       "https://x.com/eth_classic/status/2113986617723511245"
     ],
     "pullRequest": 383
+  },
+  "tweets/261025-2229-add-tweet-with-media-ethereum-classic-hashrate-up.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-26T13:00:00.000Z",
+    "queuedAt": "2026-10-26T01:16:51.710Z"
   }
 }
