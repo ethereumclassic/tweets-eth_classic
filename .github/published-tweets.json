@@ -522,5 +522,10 @@
     "status": "pending",
     "scheduled": "2026-10-26T13:00:00.000Z",
     "queuedAt": "2026-10-26T01:16:51.710Z"
+  },
+  "tweets/261025-2311-add-tweet-with-media-bitcoin-proof-of-work.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-28T15:00:00.000Z",
+    "queuedAt": "2026-10-26T01:21:40.901Z"
   }
 }
