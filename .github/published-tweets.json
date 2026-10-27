@@ -531,9 +531,16 @@
     "pullRequest": 387
   },
   "tweets/261025-2249-add-tweet-10-years-ago-this-week-ethereumclassic.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-27T15:00:00.000Z",
-    "queuedAt": "2026-10-27T01:58:22.873Z"
+    "queuedAt": "2026-10-27T01:58:22.873Z",
+    "claimedAt": "2026-10-27T15:01:04.850Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/122268393592",
+    "publishedAt": "2026-10-27T15:01:05.249Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2115096450606444661"
+    ],
+    "pullRequest": 388
   },
   "tweets/261025-2311-add-tweet-with-media-bitcoin-proof-of-work.tweet": {
     "status": "pending",
