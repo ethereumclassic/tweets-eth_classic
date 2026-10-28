@@ -543,8 +543,15 @@
     "pullRequest": 388
   },
   "tweets/261025-2311-add-tweet-with-media-bitcoin-proof-of-work.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-28T15:00:00.000Z",
-    "queuedAt": "2026-10-26T01:21:40.901Z"
+    "queuedAt": "2026-10-26T01:21:40.901Z",
+    "claimedAt": "2026-10-28T15:01:05.133Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/122898298760",
+    "publishedAt": "2026-10-28T15:01:06.538Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2115458843312283942"
+    ],
+    "pullRequest": 389
   }
 }
