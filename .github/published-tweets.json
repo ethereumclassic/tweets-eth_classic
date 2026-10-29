@@ -553,5 +553,10 @@
       "https://x.com/eth_classic/status/2115458843312283942"
     ],
     "pullRequest": 389
+  },
+  "tweets/261029-0022-add-tweet-with-media-18-years-ago-today.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-31T15:00:00.000Z",
+    "queuedAt": "2026-10-29T10:28:44.800Z"
   }
 }
