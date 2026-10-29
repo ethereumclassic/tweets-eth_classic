@@ -569,9 +569,16 @@
     "error": "Request failed with code 403: You can only reply to or quote posts where you are mentioned or are the author."
   },
   "tweets/261029-0126-add-tweet-with-media-people-said-ethereum-classic.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-29T15:00:00.000Z",
-    "queuedAt": "2026-10-29T10:31:12.385Z"
+    "queuedAt": "2026-10-29T10:31:12.385Z",
+    "claimedAt": "2026-10-29T15:01:09.175Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/123529694126",
+    "publishedAt": "2026-10-29T15:01:10.318Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2115821247334678925"
+    ],
+    "pullRequest": 393
   },
   "tweets/261029-0129-add-tweet-with-media-theyve-written-ethereum-classics.tweet": {
     "status": "pending",
