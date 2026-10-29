@@ -563,5 +563,10 @@
     "status": "pending",
     "scheduled": "2026-10-29T01:00:00.000Z",
     "queuedAt": "2026-10-29T10:29:20.257Z"
+  },
+  "tweets/261029-0129-add-tweet-with-media-theyve-written-ethereum-classics.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-01T16:00:00.000Z",
+    "queuedAt": "2026-10-29T10:30:53.218Z"
   }
 }
