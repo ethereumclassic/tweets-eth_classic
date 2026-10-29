@@ -560,9 +560,13 @@
     "queuedAt": "2026-10-29T10:28:44.800Z"
   },
   "tweets/261029-0024-add-reply-zcash-happy-anniversary-zcash.tweet": {
-    "status": "pending",
+    "status": "failed",
     "scheduled": "2026-10-29T01:00:00.000Z",
-    "queuedAt": "2026-10-29T10:29:20.257Z"
+    "queuedAt": "2026-10-29T10:29:20.257Z",
+    "claimedAt": "2026-10-29T10:31:00.384Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/123394332294",
+    "failedAt": "2026-10-29T10:31:00.947Z",
+    "error": "Request failed with code 403: You can only reply to or quote posts where you are mentioned or are the author."
   },
   "tweets/261029-0129-add-tweet-with-media-theyve-written-ethereum-classics.tweet": {
     "status": "pending",
