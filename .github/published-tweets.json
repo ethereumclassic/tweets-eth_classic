@@ -558,5 +558,10 @@
     "status": "pending",
     "scheduled": "2026-10-31T15:00:00.000Z",
     "queuedAt": "2026-10-29T10:28:44.800Z"
+  },
+  "tweets/261029-0024-add-reply-zcash-happy-anniversary-zcash.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-29T01:00:00.000Z",
+    "queuedAt": "2026-10-29T10:29:20.257Z"
   }
 }
