@@ -567,9 +567,16 @@
     "pullRequest": 389
   },
   "tweets/261029-0022-add-tweet-with-media-18-years-ago-today.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-31T15:00:00.000Z",
-    "queuedAt": "2026-10-29T10:28:44.800Z"
+    "queuedAt": "2026-10-29T10:28:44.800Z",
+    "claimedAt": "2026-10-31T15:01:02.860Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/124571110924",
+    "publishedAt": "2026-10-31T15:01:03.868Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2116545996012556430"
+    ],
+    "pullRequest": 390
   },
   "tweets/261029-0024-add-reply-zcash-happy-anniversary-zcash.tweet": {
     "status": "failed",
