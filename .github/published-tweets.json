@@ -519,9 +519,16 @@
     "pullRequest": 383
   },
   "tweets/261025-1530-add-tweet-with-media-in-1991-philip-zimmermann.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-26T05:00:00.000Z",
-    "queuedAt": "2026-10-31T01:51:37.148Z"
+    "queuedAt": "2026-10-31T01:51:37.148Z",
+    "claimedAt": "2026-10-31T02:01:02.660Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/124409043624",
+    "publishedAt": "2026-10-31T02:01:32.168Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2116349821275840526"
+    ],
+    "pullRequest": 386
   },
   "tweets/261025-2229-add-tweet-with-media-ethereum-classic-hashrate-up.tweet": {
     "status": "published",
