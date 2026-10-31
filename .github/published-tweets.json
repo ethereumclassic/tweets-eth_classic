@@ -596,5 +596,10 @@
     "status": "pending",
     "scheduled": "2026-11-01T16:00:00.000Z",
     "queuedAt": "2026-10-29T10:30:53.218Z"
+  },
+  "tweets/261031-0101-add-tweet-with-media-happy-halloween.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-31T18:00:00.000Z",
+    "queuedAt": "2026-10-31T11:52:09.766Z"
   }
 }
