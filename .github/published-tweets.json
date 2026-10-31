@@ -518,6 +518,11 @@
     ],
     "pullRequest": 383
   },
+  "tweets/261025-1530-add-tweet-with-media-in-1991-philip-zimmermann.tweet": {
+    "status": "pending",
+    "scheduled": "2026-10-26T05:00:00.000Z",
+    "queuedAt": "2026-10-31T01:51:37.148Z"
+  },
   "tweets/261025-2229-add-tweet-with-media-ethereum-classic-hashrate-up.tweet": {
     "status": "published",
     "scheduled": "2026-10-26T13:00:00.000Z",
