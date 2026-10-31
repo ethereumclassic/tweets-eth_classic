@@ -605,8 +605,15 @@
     "queuedAt": "2026-10-29T10:30:53.218Z"
   },
   "tweets/261031-0101-add-tweet-with-media-happy-halloween.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-10-31T18:00:00.000Z",
-    "queuedAt": "2026-10-31T11:52:09.766Z"
+    "queuedAt": "2026-10-31T11:52:09.766Z",
+    "claimedAt": "2026-10-31T18:01:02.390Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/124614024788",
+    "publishedAt": "2026-10-31T18:01:03.568Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2116591293333688783"
+    ],
+    "pullRequest": 395
   }
 }
