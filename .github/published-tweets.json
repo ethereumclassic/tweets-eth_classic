@@ -600,9 +600,16 @@
     "pullRequest": 393
   },
   "tweets/261029-0129-add-tweet-with-media-theyve-written-ethereum-classics.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-01T16:00:00.000Z",
-    "queuedAt": "2026-10-29T10:30:53.218Z"
+    "queuedAt": "2026-10-29T10:30:53.218Z",
+    "claimedAt": "2026-11-01T16:01:01.676Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/124900337705",
+    "publishedAt": "2026-11-01T16:01:02.923Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2116923479073210390"
+    ],
+    "pullRequest": 394
   },
   "tweets/261031-0101-add-tweet-with-media-happy-halloween.tweet": {
     "status": "published",
