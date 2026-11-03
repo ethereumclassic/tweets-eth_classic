@@ -632,5 +632,10 @@
     "status": "pending",
     "scheduled": "2026-11-03T16:30:00.000Z",
     "queuedAt": "2026-11-03T01:37:01.589Z"
+  },
+  "tweets/261102-0252-add-tweet-with-media-why-doesnt-bitcoin-just.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-04T16:30:00.000Z",
+    "queuedAt": "2026-11-03T01:37:47.950Z"
   }
 }
