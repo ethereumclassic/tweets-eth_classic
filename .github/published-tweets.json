@@ -627,5 +627,10 @@
     "status": "pending",
     "scheduled": "2026-11-02T16:30:00.000Z",
     "queuedAt": "2026-11-03T01:35:10.694Z"
+  },
+  "tweets/261102-0231-add-retweet-ethclassic-missed-this-one-the-threat.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-03T16:30:00.000Z",
+    "queuedAt": "2026-11-03T01:37:01.589Z"
   }
 }
