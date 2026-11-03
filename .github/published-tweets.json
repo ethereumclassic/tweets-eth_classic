@@ -636,9 +636,16 @@
     "pullRequest": 396
   },
   "tweets/261102-0231-add-retweet-ethclassic-missed-this-one-the-threat.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-03T16:30:00.000Z",
-    "queuedAt": "2026-11-03T01:37:01.589Z"
+    "queuedAt": "2026-11-03T01:37:01.589Z",
+    "claimedAt": "2026-11-03T16:31:18.127Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/126053258598",
+    "publishedAt": "2026-11-03T16:31:18.622Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2117655870779560303"
+    ],
+    "pullRequest": 397
   },
   "tweets/261102-0252-add-tweet-with-media-why-doesnt-bitcoin-just.tweet": {
     "status": "pending",
