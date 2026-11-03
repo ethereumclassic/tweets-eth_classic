@@ -624,9 +624,16 @@
     "pullRequest": 395
   },
   "tweets/261102-0157-add-tweet-with-media-july-30-2015-genesis.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-02T16:30:00.000Z",
-    "queuedAt": "2026-11-03T01:35:10.694Z"
+    "queuedAt": "2026-11-03T01:35:10.694Z",
+    "claimedAt": "2026-11-03T02:01:03.119Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/125679152396",
+    "publishedAt": "2026-11-03T02:01:04.172Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2117436867398258756"
+    ],
+    "pullRequest": 396
   },
   "tweets/261102-0231-add-retweet-ethclassic-missed-this-one-the-threat.tweet": {
     "status": "pending",
