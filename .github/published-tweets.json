@@ -648,8 +648,15 @@
     "pullRequest": 397
   },
   "tweets/261102-0252-add-tweet-with-media-why-doesnt-bitcoin-just.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-04T16:30:00.000Z",
-    "queuedAt": "2026-11-03T01:37:47.950Z"
+    "queuedAt": "2026-11-03T01:37:47.950Z",
+    "claimedAt": "2026-11-04T16:31:09.190Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/126707225687",
+    "publishedAt": "2026-11-04T16:31:10.390Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2118018223857701300"
+    ],
+    "pullRequest": 398
   }
 }
