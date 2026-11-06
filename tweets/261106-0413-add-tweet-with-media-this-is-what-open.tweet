@@ -1,0 +1,13 @@
+---
+media:
+  - file: 261106-0413-add-tweet-with-media-this-is-what-open.png
+schedule: 2026-11-06T17:00:00.000Z
+---
+
+This is what open source blockchain infrastructure looks like.
+
+Project Triforce: a grid of Ethereum Classic nodes serving public RPC and watching blocks, reorgs, the mempool and every peer. 👀
+
+Four clients. Three providers. Three regions.🌎
+
+See it live: triforce.classix.dev
