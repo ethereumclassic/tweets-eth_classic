@@ -658,5 +658,10 @@
       "https://x.com/eth_classic/status/2118018223857701300"
     ],
     "pullRequest": 398
+  },
+  "tweets/261105-0032-add-tweet-with-media-of-the-seven-largest.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-05T15:30:00.000Z",
+    "queuedAt": "2026-11-06T04:10:07.639Z"
   }
 }
