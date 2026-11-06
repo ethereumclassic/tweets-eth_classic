@@ -660,9 +660,16 @@
     "pullRequest": 398
   },
   "tweets/261105-0032-add-tweet-with-media-of-the-seven-largest.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-05T15:30:00.000Z",
-    "queuedAt": "2026-11-06T04:10:07.639Z"
+    "queuedAt": "2026-11-06T04:10:07.639Z",
+    "claimedAt": "2026-11-06T04:31:04.286Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/127712750765",
+    "publishedAt": "2026-11-06T04:31:05.356Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2118561784504168465"
+    ],
+    "pullRequest": 399
   },
   "tweets/261105-0305-add-tweet-with-media-bitcoin-halves-every-210000.tweet": {
     "status": "pending",
@@ -670,9 +677,16 @@
     "queuedAt": "2026-11-06T04:11:05.376Z"
   },
   "tweets/261105-0308-add-retweet-classiciscoming-nobody-buys-asics-and-pays.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-05T17:30:00.000Z",
-    "queuedAt": "2026-11-06T04:11:26.464Z"
+    "queuedAt": "2026-11-06T04:11:26.464Z",
+    "claimedAt": "2026-11-06T04:31:07.515Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/127712768025",
+    "publishedAt": "2026-11-06T04:31:07.859Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2118561795505795457"
+    ],
+    "pullRequest": 402
   },
   "tweets/261105-0321-add-tweet-with-media-no-pivot-to-ai.tweet": {
     "status": "pending",
@@ -680,9 +694,13 @@
     "queuedAt": "2026-11-06T04:14:31.425Z"
   },
   "tweets/261105-1005-add-reply-classiciscoming.tweet": {
-    "status": "pending",
+    "status": "failed",
     "scheduled": "2026-11-05T11:00:00.000Z",
-    "queuedAt": "2026-11-06T04:11:38.220Z"
+    "queuedAt": "2026-11-06T04:11:38.220Z",
+    "claimedAt": "2026-11-06T04:31:01.636Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/127712736613",
+    "failedAt": "2026-11-06T04:31:02.008Z",
+    "error": "Request failed with code 403: You can only reply to or quote posts where you are mentioned or are the author."
   },
   "tweets/261106-0308-add-tweet-with-media-plenty-of-people-call.tweet": {
     "status": "pending",
