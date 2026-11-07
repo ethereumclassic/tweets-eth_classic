@@ -672,9 +672,16 @@
     "pullRequest": 399
   },
   "tweets/261105-0305-add-tweet-with-media-bitcoin-halves-every-210000.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-07T17:00:00.000Z",
-    "queuedAt": "2026-11-06T04:11:05.376Z"
+    "queuedAt": "2026-11-06T04:11:05.376Z",
+    "claimedAt": "2026-11-07T17:01:02.783Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/128467873647",
+    "publishedAt": "2026-11-07T17:01:03.671Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2119112909368484349"
+    ],
+    "pullRequest": 401
   },
   "tweets/261105-0308-add-retweet-classiciscoming-nobody-buys-asics-and-pays.tweet": {
     "status": "published",
