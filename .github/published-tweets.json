@@ -708,8 +708,15 @@
     "queuedAt": "2026-11-06T04:11:55.268Z"
   },
   "tweets/261106-0413-add-tweet-with-media-this-is-what-open.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-06T17:00:00.000Z",
-    "queuedAt": "2026-11-07T07:25:31.442Z"
+    "queuedAt": "2026-11-07T07:25:31.442Z",
+    "claimedAt": "2026-11-07T07:31:01.007Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/128340732410",
+    "publishedAt": "2026-11-07T07:31:02.250Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2118969457850671462"
+    ],
+    "pullRequest": 408
   }
 }
