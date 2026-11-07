@@ -727,8 +727,15 @@
     "pullRequest": 408
   },
   "tweets/261106-0455-add-retweet-backpowcom-etc-is-now-live-on.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-06T14:00:00.000Z",
-    "queuedAt": "2026-11-07T23:06:18.760Z"
+    "queuedAt": "2026-11-07T23:06:18.760Z",
+    "claimedAt": "2026-11-07T23:31:03.139Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/128563074091",
+    "publishedAt": "2026-11-07T23:31:03.623Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2119211055956283795"
+    ],
+    "pullRequest": 409
   }
 }
