@@ -706,5 +706,10 @@
     "status": "pending",
     "scheduled": "2026-11-09T17:00:00.000Z",
     "queuedAt": "2026-11-06T04:11:55.268Z"
+  },
+  "tweets/261106-0413-add-tweet-with-media-this-is-what-open.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-06T17:00:00.000Z",
+    "queuedAt": "2026-11-07T07:25:31.442Z"
   }
 }
