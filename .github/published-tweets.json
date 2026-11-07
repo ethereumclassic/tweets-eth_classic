@@ -725,5 +725,10 @@
       "https://x.com/eth_classic/status/2118969457850671462"
     ],
     "pullRequest": 408
+  },
+  "tweets/261106-0455-add-retweet-backpowcom-etc-is-now-live-on.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-06T14:00:00.000Z",
+    "queuedAt": "2026-11-07T23:06:18.760Z"
   }
 }
