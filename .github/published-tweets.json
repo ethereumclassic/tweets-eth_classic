@@ -696,9 +696,16 @@
     "pullRequest": 402
   },
   "tweets/261105-0321-add-tweet-with-media-no-pivot-to-ai.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-08T17:00:00.000Z",
-    "queuedAt": "2026-11-06T04:14:31.425Z"
+    "queuedAt": "2026-11-06T04:14:31.425Z",
+    "claimedAt": "2026-11-08T17:01:01.666Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/128798955067",
+    "publishedAt": "2026-11-08T17:01:03.142Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2119475294692110453"
+    ],
+    "pullRequest": 403
   },
   "tweets/261105-1005-add-reply-classiciscoming.tweet": {
     "status": "failed",
