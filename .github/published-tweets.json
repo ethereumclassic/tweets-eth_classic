@@ -717,9 +717,16 @@
     "error": "Request failed with code 403: You can only reply to or quote posts where you are mentioned or are the author."
   },
   "tweets/261106-0308-add-tweet-with-media-plenty-of-people-call.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-09T17:00:00.000Z",
-    "queuedAt": "2026-11-06T04:11:55.268Z"
+    "queuedAt": "2026-11-06T04:11:55.268Z",
+    "claimedAt": "2026-11-09T17:01:06.976Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/129310420053",
+    "publishedAt": "2026-11-09T17:01:08.377Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2119837704405881145"
+    ],
+    "pullRequest": 406
   },
   "tweets/261106-0413-add-tweet-with-media-this-is-what-open.tweet": {
     "status": "published",
