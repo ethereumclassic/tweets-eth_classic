@@ -756,5 +756,10 @@
     "status": "pending",
     "scheduled": "2026-11-10T16:00:00.000Z",
     "queuedAt": "2026-11-10T03:37:27.533Z"
+  },
+  "tweets/261110-0121-add-tweet-a-smart-contract-is-only-as.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-11T16:00:00.000Z",
+    "queuedAt": "2026-11-10T03:38:16.838Z"
   }
 }
