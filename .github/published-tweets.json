@@ -753,9 +753,10 @@
     "pullRequest": 409
   },
   "tweets/261110-0110-add-tweet-with-media-ethereum-classic-block-rewards.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-10T16:00:00.000Z",
-    "queuedAt": "2026-11-10T03:37:27.533Z"
+    "queuedAt": "2026-11-10T03:37:27.533Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/129949071993"
   },
   "tweets/261110-0121-add-tweet-a-smart-contract-is-only-as.tweet": {
     "status": "pending",
