@@ -759,8 +759,15 @@
     "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/129949071993"
   },
   "tweets/261110-0121-add-tweet-a-smart-contract-is-only-as.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-11T16:00:00.000Z",
-    "queuedAt": "2026-11-10T03:38:16.838Z"
+    "queuedAt": "2026-11-10T03:38:16.838Z",
+    "claimedAt": "2026-11-11T16:01:04.832Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/130638718409",
+    "publishedAt": "2026-11-11T16:01:05.264Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2120547368143851601"
+    ],
+    "pullRequest": 411
   }
 }
