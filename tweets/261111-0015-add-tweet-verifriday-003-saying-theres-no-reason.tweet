@@ -1,0 +1,11 @@
+---
+schedule: 2026-11-13T16:30:00.000Z
+---
+
+#VeriFriday-003
+
+Saying there’s no reason to run a node because public RPC exists is like saying there’s no reason to hold your keys because exchanges exists.
+
+New core-geth Docker guide 🐳
+
+ethereumclassic.org/blog/2026-10-28-run-your-own-etc-node-part-2-run-core-geth-with-docker
