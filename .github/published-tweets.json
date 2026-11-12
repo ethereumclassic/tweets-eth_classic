@@ -769,5 +769,10 @@
       "https://x.com/eth_classic/status/2120547368143851601"
     ],
     "pullRequest": 411
+  },
+  "tweets/261110-0331-add-tweet-with-media-nine-years-ago-this.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-12T16:00:00.000Z",
+    "queuedAt": "2026-11-12T00:29:01.244Z"
   }
 }
