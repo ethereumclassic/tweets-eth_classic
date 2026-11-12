@@ -771,9 +771,10 @@
     "pullRequest": 411
   },
   "tweets/261110-0331-add-tweet-with-media-nine-years-ago-this.tweet": {
-    "status": "pending",
+    "status": "publishing",
     "scheduled": "2026-11-12T16:00:00.000Z",
-    "queuedAt": "2026-11-12T00:29:01.244Z"
+    "queuedAt": "2026-11-12T00:29:01.244Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/131307359058"
   },
   "tweets/261111-0015-add-tweet-verifriday-003-saying-theres-no-reason.tweet": {
     "status": "pending",
