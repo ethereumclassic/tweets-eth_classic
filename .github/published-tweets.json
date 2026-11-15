@@ -789,9 +789,16 @@
     "pullRequest": 413
   },
   "tweets/261114-0237-add-tweet-with-media-miners-dont-deploy-asics.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-14T15:30:00.000Z",
-    "queuedAt": "2026-11-15T01:41:53.238Z"
+    "queuedAt": "2026-11-15T01:41:53.238Z",
+    "claimedAt": "2026-11-15T02:01:00.929Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/132664593160",
+    "publishedAt": "2026-11-15T02:01:02.098Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2121785513078059219"
+    ],
+    "pullRequest": 418
   },
   "tweets/261114-0244-add-tweet-in-etc-the-backbone-of-dapps.tweet": {
     "status": "pending",
