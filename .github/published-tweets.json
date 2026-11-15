@@ -801,8 +801,15 @@
     "pullRequest": 418
   },
   "tweets/261114-0244-add-tweet-in-etc-the-backbone-of-dapps.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-15T15:30:00.000Z",
-    "queuedAt": "2026-11-15T01:41:47.919Z"
+    "queuedAt": "2026-11-15T01:41:47.919Z",
+    "claimedAt": "2026-11-15T15:31:02.102Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/132861068508",
+    "publishedAt": "2026-11-15T15:31:02.590Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2121989358647382025"
+    ],
+    "pullRequest": 419
   }
 }
