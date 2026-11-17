@@ -1,0 +1,15 @@
+---
+media:
+  - file: 261117-0154-add-tweet-with-media-immutability-isnt-about-being.png
+schedule: 2026-11-19T17:00:00.000Z
+---
+
+Immutability isn’t about being inflexible.
+
+It’s one promise, kept: what’s recorded stays recorded, and apps can’t be stopped.
+
+→ Supply: set in 2017, hasn’t changed
+→ History: no hard fork has ever reversed a transaction
+→ Upgrades: public ECIPs, open to anyone
+
+Decentralized. Immutable. Unstoppable.
