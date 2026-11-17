@@ -788,6 +788,11 @@
     ],
     "pullRequest": 413
   },
+  "tweets/261114-0142-add-tweet-the-first-ethereum-classic-community-survey.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-16T16:00:00.000Z",
+    "queuedAt": "2026-11-17T00:11:19.807Z"
+  },
   "tweets/261114-0237-add-tweet-with-media-miners-dont-deploy-asics.tweet": {
     "status": "published",
     "scheduled": "2026-11-14T15:30:00.000Z",
