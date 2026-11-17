@@ -845,8 +845,15 @@
     "queuedAt": "2026-11-17T06:34:55.254Z"
   },
   "tweets/261117-0917-add-tweet-attention-all-etc-builders-miners-stakeholders.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-17T13:30:00.000Z",
-    "queuedAt": "2026-11-17T09:42:13.131Z"
+    "queuedAt": "2026-11-17T09:42:13.131Z",
+    "claimedAt": "2026-11-17T13:31:02.409Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/134074460638",
+    "publishedAt": "2026-11-17T13:31:02.956Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2122683936962658323"
+    ],
+    "pullRequest": 425
   }
 }
