@@ -825,9 +825,16 @@
     "pullRequest": 419
   },
   "tweets/261117-0054-add-retweet-classixdev-diego-lpez-len-diega-continues.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-17T16:30:00.000Z",
-    "queuedAt": "2026-11-17T09:34:19.881Z"
+    "queuedAt": "2026-11-17T09:34:19.881Z",
+    "claimedAt": "2026-11-17T16:31:03.207Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/134192161386",
+    "publishedAt": "2026-11-17T16:31:03.644Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2122729238251860153"
+    ],
+    "pullRequest": 421
   },
   "tweets/261117-0121-add-tweet-with-media-imagine-bitcoins-security-model.tweet": {
     "status": "pending",
