@@ -837,9 +837,16 @@
     "pullRequest": 421
   },
   "tweets/261117-0121-add-tweet-with-media-imagine-bitcoins-security-model.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-18T16:30:00.000Z",
-    "queuedAt": "2026-11-17T06:35:07.471Z"
+    "queuedAt": "2026-11-17T06:35:07.471Z",
+    "claimedAt": "2026-11-18T16:31:08.693Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/134956109654",
+    "publishedAt": "2026-11-18T16:31:09.651Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2123091651124154471"
+    ],
+    "pullRequest": 422
   },
   "tweets/261117-0154-add-tweet-with-media-immutability-isnt-about-being.tweet": {
     "status": "pending",
