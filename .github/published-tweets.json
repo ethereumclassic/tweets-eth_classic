@@ -849,14 +849,28 @@
     "pullRequest": 422
   },
   "tweets/261117-0154-add-tweet-with-media-immutability-isnt-about-being.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-19T17:00:00.000Z",
-    "queuedAt": "2026-11-17T06:35:14.050Z"
+    "queuedAt": "2026-11-17T06:35:14.050Z",
+    "claimedAt": "2026-11-19T17:01:05.973Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/135731206213",
+    "publishedAt": "2026-11-19T17:01:07.230Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2123461578125201893"
+    ],
+    "pullRequest": 423
   },
   "tweets/261117-0422-add-tweet-somebodys-going-to-discover-ethereum-classic.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-19T17:00:00.000Z",
-    "queuedAt": "2026-11-17T06:34:55.254Z"
+    "queuedAt": "2026-11-17T06:34:55.254Z",
+    "claimedAt": "2026-11-19T17:01:09.866Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/135731252537",
+    "publishedAt": "2026-11-19T17:01:10.123Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2123461591152689421"
+    ],
+    "pullRequest": 424
   },
   "tweets/261117-0917-add-tweet-attention-all-etc-builders-miners-stakeholders.tweet": {
     "status": "published",
