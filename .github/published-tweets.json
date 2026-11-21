@@ -884,6 +884,11 @@
     ],
     "pullRequest": 425
   },
+  "tweets/261120-0356-add-tweet-verifriday-004-no-go-no-docker.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-20T16:30:00.000Z",
+    "queuedAt": "2026-11-21T00:46:28.211Z"
+  },
   "tweets/261120-0415-add-tweet-with-media-september-2022-ethereum-left.tweet": {
     "status": "pending",
     "scheduled": "2026-11-21T15:00:00.000Z",
