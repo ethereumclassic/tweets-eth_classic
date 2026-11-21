@@ -1,0 +1,13 @@
+---
+schedule: 2026-11-20T16:30:00.000Z
+---
+
+#VeriFriday-004
+
+No Go. No Docker. No build tools.
+
+Download the core-geth binary → verify the checksum → run one command → you’re syncing Ethereum Classic. ⚡️
+
+What’s stopping you from running your own node?
+
+https://ethereumclassic.org/blog/2026-11-18-run-your-own-etc-node-part-3-download-the-core-geth-binary
