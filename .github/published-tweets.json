@@ -897,9 +897,16 @@
     "pullRequest": 426
   },
   "tweets/261120-0415-add-tweet-with-media-september-2022-ethereum-left.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-21T15:00:00.000Z",
-    "queuedAt": "2026-11-21T00:46:15.063Z"
+    "queuedAt": "2026-11-21T00:46:15.063Z",
+    "claimedAt": "2026-11-21T15:01:03.881Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/136884349700",
+    "publishedAt": "2026-11-21T15:01:05.349Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2124156147133206840"
+    ],
+    "pullRequest": 427
   },
   "tweets/261120-0418-add-tweet-the-first-unofificial-ethereum-classic-community.tweet": {
     "status": "pending",
