@@ -883,5 +883,10 @@
       "https://x.com/eth_classic/status/2122683936962658323"
     ],
     "pullRequest": 425
+  },
+  "tweets/261120-2303-add-tweet-your-sunday-listen-etc-community-call.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-22T16:00:00.000Z",
+    "queuedAt": "2026-11-21T00:45:45.927Z"
   }
 }
