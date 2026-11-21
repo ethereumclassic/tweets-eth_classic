@@ -885,9 +885,16 @@
     "pullRequest": 425
   },
   "tweets/261120-0356-add-tweet-verifriday-004-no-go-no-docker.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-20T16:30:00.000Z",
-    "queuedAt": "2026-11-21T00:46:28.211Z"
+    "queuedAt": "2026-11-21T00:46:28.211Z",
+    "claimedAt": "2026-11-21T01:01:05.800Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/136670909951",
+    "publishedAt": "2026-11-21T01:01:06.269Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2123944758225572327"
+    ],
+    "pullRequest": 426
   },
   "tweets/261120-0415-add-tweet-with-media-september-2022-ethereum-left.tweet": {
     "status": "pending",
