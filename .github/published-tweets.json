@@ -914,8 +914,15 @@
     "queuedAt": "2026-11-21T11:07:15.952Z"
   },
   "tweets/261120-2303-add-tweet-your-sunday-listen-etc-community-call.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-22T16:00:00.000Z",
-    "queuedAt": "2026-11-21T00:45:45.927Z"
+    "queuedAt": "2026-11-21T00:45:45.927Z",
+    "claimedAt": "2026-11-22T16:01:07.711Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/137266605244",
+    "publishedAt": "2026-11-22T16:01:08.208Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2124533646874816942"
+    ],
+    "pullRequest": 430
   }
 }
