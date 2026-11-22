@@ -924,5 +924,10 @@
       "https://x.com/eth_classic/status/2124533646874816942"
     ],
     "pullRequest": 430
+  },
+  "tweets/261122-2116-add-tweet-with-media-decentralization-goes-beyond-the.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-23T13:30:00.000Z",
+    "queuedAt": "2026-11-22T23:29:44.331Z"
   }
 }
