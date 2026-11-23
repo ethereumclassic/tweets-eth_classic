@@ -929,5 +929,10 @@
     "status": "pending",
     "scheduled": "2026-11-23T13:30:00.000Z",
     "queuedAt": "2026-11-22T23:29:44.331Z"
+  },
+  "tweets/261123-0133-add-tweet-with-media-happy-thanksgiving-from-ethereum.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-26T15:00:00.000Z",
+    "queuedAt": "2026-11-23T12:44:17.094Z"
   }
 }
