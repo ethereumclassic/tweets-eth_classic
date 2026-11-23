@@ -926,9 +926,16 @@
     "pullRequest": 430
   },
   "tweets/261122-2116-add-tweet-with-media-decentralization-goes-beyond-the.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-23T13:30:00.000Z",
-    "queuedAt": "2026-11-22T23:29:44.331Z"
+    "queuedAt": "2026-11-22T23:29:44.331Z",
+    "claimedAt": "2026-11-23T13:31:02.767Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/137727121687",
+    "publishedAt": "2026-11-23T13:31:18.864Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2124858330623426930"
+    ],
+    "pullRequest": 431
   },
   "tweets/261123-0039-add-tweet-with-media-smart-contracts-on-ethereumclassic.tweet": {
     "status": "pending",
