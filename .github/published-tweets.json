@@ -930,6 +930,11 @@
     "scheduled": "2026-11-23T13:30:00.000Z",
     "queuedAt": "2026-11-22T23:29:44.331Z"
   },
+  "tweets/261123-0039-add-tweet-with-media-smart-contracts-on-ethereumclassic.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-24T15:30:00.000Z",
+    "queuedAt": "2026-11-23T13:06:38.471Z"
+  },
   "tweets/261123-0100-add-tweet-with-media-price-is-down-hashrate.tweet": {
     "status": "pending",
     "scheduled": "2026-11-23T21:30:00.000Z",
