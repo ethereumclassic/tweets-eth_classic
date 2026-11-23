@@ -950,9 +950,16 @@
     "queuedAt": "2026-11-23T13:06:38.471Z"
   },
   "tweets/261123-0100-add-tweet-with-media-price-is-down-hashrate.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-23T21:30:00.000Z",
-    "queuedAt": "2026-11-23T12:44:46.631Z"
+    "queuedAt": "2026-11-23T12:44:46.631Z",
+    "claimedAt": "2026-11-23T21:31:02.483Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/138028550223",
+    "publishedAt": "2026-11-23T21:31:03.502Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2124979061957013686"
+    ],
+    "pullRequest": 433
   },
   "tweets/261123-0133-add-tweet-with-media-happy-thanksgiving-from-ethereum.tweet": {
     "status": "pending",
