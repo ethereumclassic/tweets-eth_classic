@@ -909,9 +909,16 @@
     "pullRequest": 427
   },
   "tweets/261120-0418-add-tweet-the-first-unofificial-ethereum-classic-community.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-23T17:00:00.000Z",
-    "queuedAt": "2026-11-21T11:07:15.952Z"
+    "queuedAt": "2026-11-21T11:07:15.952Z",
+    "claimedAt": "2026-11-23T17:01:08.183Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/137861834401",
+    "publishedAt": "2026-11-23T17:01:08.625Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2124911136155832396"
+    ],
+    "pullRequest": 428
   },
   "tweets/261120-2303-add-tweet-your-sunday-listen-etc-community-call.tweet": {
     "status": "published",
