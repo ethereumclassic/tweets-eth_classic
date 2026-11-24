@@ -945,9 +945,16 @@
     "pullRequest": 431
   },
   "tweets/261123-0039-add-tweet-with-media-smart-contracts-on-ethereumclassic.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-24T15:30:00.000Z",
-    "queuedAt": "2026-11-23T13:06:38.471Z"
+    "queuedAt": "2026-11-23T13:06:38.471Z",
+    "claimedAt": "2026-11-24T15:31:05.834Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/138559552083",
+    "publishedAt": "2026-11-24T15:31:07.044Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2125250867678835065"
+    ],
+    "pullRequest": 432
   },
   "tweets/261123-0100-add-tweet-with-media-price-is-down-hashrate.tweet": {
     "status": "published",
