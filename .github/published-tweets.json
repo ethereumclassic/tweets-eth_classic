@@ -969,9 +969,16 @@
     "pullRequest": 433
   },
   "tweets/261123-0133-add-tweet-with-media-happy-thanksgiving-from-ethereum.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-26T15:00:00.000Z",
-    "queuedAt": "2026-11-23T12:44:17.094Z"
+    "queuedAt": "2026-11-23T12:44:17.094Z",
+    "claimedAt": "2026-11-26T15:01:06.415Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/139995535319",
+    "publishedAt": "2026-11-26T15:01:07.496Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2125968095777030653"
+    ],
+    "pullRequest": 434
   },
   "tweets/261125-0124-add-tweet-with-media-theres-a-lot-of.tweet": {
     "status": "published",
