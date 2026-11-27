@@ -1,0 +1,16 @@
+---
+media:
+  - url: https://j622rntkgw7nlcri.public.blob.vercel-storage.com/uploads/36aF9aWm6h25qi4K/heolqri9/etccc63quantumpathclipnobrand.mp4
+schedule: 2026-11-29T16:00:00.000Z
+---
+
+Your weekend listen 🎧
+
+Quantum computers threaten one part of Ethereum Classic: transaction signatures.
+
+On ETC Community Call #63, Istora @Istora_ETC and Diego (@diega) lay out a proposed path:
+→ Bastion (ECIP-1130)
+→ ECIP-1120, an EIP-1559-style fee market with the basefee paid to miners
+→ Quantum-safe signatures, built on top of both
+
+Full call in the reply.
