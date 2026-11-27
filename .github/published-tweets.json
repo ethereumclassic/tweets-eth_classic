@@ -998,6 +998,11 @@
     "scheduled": "2026-11-30T15:00:00.000Z",
     "queuedAt": "2026-11-27T23:01:54.741Z"
   },
+  "tweets/261127-0322-add-tweet-with-media-scarce-like-gold-2107m.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-28T16:00:00.000Z",
+    "queuedAt": "2026-11-27T23:04:02.932Z"
+  },
   "tweets/261127-0346-add-tweet-with-media-your-weekend-listen-quantum.tweet": {
     "status": "pending",
     "scheduled": "2026-11-29T16:00:00.000Z",
