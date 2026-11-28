@@ -1021,8 +1021,15 @@
     "queuedAt": "2026-11-27T07:05:39.152Z"
   },
   "tweets/261128-0153-add-reply-isangheon674276-keep-building-keep-progressing-keep.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-28T03:30:00.000Z",
-    "queuedAt": "2026-11-28T02:40:23.313Z"
+    "queuedAt": "2026-11-28T02:40:23.313Z",
+    "claimedAt": "2026-11-28T03:31:02.292Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/140850140809",
+    "publishedAt": "2026-11-28T03:31:02.766Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2126519207839846603"
+    ],
+    "pullRequest": 440
   }
 }
