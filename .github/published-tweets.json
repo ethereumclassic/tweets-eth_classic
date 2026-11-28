@@ -1019,5 +1019,10 @@
     "status": "pending",
     "scheduled": "2026-11-29T16:00:00.000Z",
     "queuedAt": "2026-11-27T07:05:39.152Z"
+  },
+  "tweets/261128-0153-add-reply-isangheon674276-keep-building-keep-progressing-keep.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-28T03:30:00.000Z",
+    "queuedAt": "2026-11-28T02:40:23.313Z"
   }
 }
