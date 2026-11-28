@@ -993,6 +993,11 @@
     ],
     "pullRequest": 435
   },
+  "tweets/261126-2216-add-retweet-etchebeblock-etc-domains-are-now-available.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-27T15:30:00.000Z",
+    "queuedAt": "2026-11-28T00:02:23.979Z"
+  },
   "tweets/261127-0313-add-tweet-with-media-gold-has-held-value.tweet": {
     "status": "pending",
     "scheduled": "2026-11-30T15:00:00.000Z",
