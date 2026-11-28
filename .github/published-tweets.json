@@ -1031,5 +1031,10 @@
       "https://x.com/eth_classic/status/2126519207839846603"
     ],
     "pullRequest": 440
+  },
+  "tweets/261128-0423-add-tweet-with-media-on-nov-28-2020.tweet": {
+    "status": "pending",
+    "scheduled": "2026-11-28T19:00:00.000Z",
+    "queuedAt": "2026-11-28T10:06:35.846Z"
   }
 }
