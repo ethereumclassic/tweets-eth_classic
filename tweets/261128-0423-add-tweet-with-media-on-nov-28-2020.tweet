@@ -1,0 +1,13 @@
+---
+media:
+  - file: 261128-0423-add-tweet-with-media-on-nov-28-2020.png
+schedule: 2026-11-28T19:00:00.000Z
+---
+
+On Nov 28, 2020, Ethereum Classic activated Thanos (ECIP-1099).
+
+It shrank the mining DAG, so 3GB and 4GB GPUs that were being locked out could keep mining ETC.
+
+Hashrate doubled in the following four weeks, and by May 2021 it was up 770%.
+
+More miners securing the chain makes it harder to attack.
