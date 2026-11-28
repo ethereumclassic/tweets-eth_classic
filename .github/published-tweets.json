@@ -994,9 +994,16 @@
     "pullRequest": 435
   },
   "tweets/261126-2216-add-retweet-etchebeblock-etc-domains-are-now-available.tweet": {
-    "status": "pending",
+    "status": "published",
     "scheduled": "2026-11-27T15:30:00.000Z",
-    "queuedAt": "2026-11-28T00:02:23.979Z"
+    "queuedAt": "2026-11-28T00:02:23.979Z",
+    "claimedAt": "2026-11-28T00:31:02.245Z",
+    "record": "https://github.com/ethereumclassic/tweets-eth_classic/runs/140802971734",
+    "publishedAt": "2026-11-28T00:31:02.610Z",
+    "urls": [
+      "https://x.com/eth_classic/status/2126473908593270836"
+    ],
+    "pullRequest": 436
   },
   "tweets/261127-0313-add-tweet-with-media-gold-has-held-value.tweet": {
     "status": "pending",
